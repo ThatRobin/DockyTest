@@ -5,6 +5,6 @@ Type ID: `ra_additions:execute_action`
 ### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
-`item_action` | [String](../data_types/string.md) | _optional_ | INSERT DESCRIPTION HERE
-`inverted` | [Boolean](../data_types/boolean.md) | false | INSERT DESCRIPTION HERE
+`item_action` | [String](../data_types/string.md) | _optional_ | null
+`inverted` | [Boolean](../data_types/boolean.md) | false | null
 

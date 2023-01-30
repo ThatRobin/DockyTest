@@ -1,10 +1,10 @@
 # Equipped Trinket
 [Entity Condition Type](../entity_condition_types.md)
-
+Checks all the players trinket slots with an [Item Condition](https://origins.readthedocs.io/en/latest/types/item_condition_types/).
 Type ID: `ra_additions:equipped_trinket`
 ### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
-`item_condition` | [Item Condition](../data_types/item_condition.md) | _optional_ | INSERT DESCRIPTION HERE
-`inverted` | [Boolean](../data_types/boolean.md) | false | INSERT DESCRIPTION HERE
+`item_condition` | [Item Condition](../data_types/item_condition.md) | _optional_ | The items that are searched for in the trinket slots.
+`inverted` | [Boolean](../data_types/boolean.md) | false | null
 

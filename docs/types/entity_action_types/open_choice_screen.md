@@ -5,6 +5,6 @@ Type ID: `ra_additions:open_choice_screen`
 ### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
-`choice_layer` | [Identifier](../data_types/identifier.md) | _optional_ | INSERT DESCRIPTION HERE
-`inverted` | [Boolean](../data_types/boolean.md) | false | INSERT DESCRIPTION HERE
+`choice_layer` | [Identifier](../data_types/identifier.md) | _optional_ | null
+`inverted` | [Boolean](../data_types/boolean.md) | false | null
 

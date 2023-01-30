@@ -5,6 +5,6 @@ Type ID: `ra_additions:modify_item`
 ### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
-`modifier` | [Identifier](../data_types/identifier.md) | _optional_ | INSERT DESCRIPTION HERE
-`inverted` | [Boolean](../data_types/boolean.md) | false | INSERT DESCRIPTION HERE
+`modifier` | [Identifier](../data_types/identifier.md) | _optional_ | null
+`inverted` | [Boolean](../data_types/boolean.md) | false | null
 
