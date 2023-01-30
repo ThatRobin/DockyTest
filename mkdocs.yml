@@ -1,0 +1,40 @@
+site_name: Robin's Apoli Additions
+
+nav:
+    - Home: index.md    - Power Types:
+        - Power Types: types/power_types.md
+    - Action Types:
+        - Bientity Action Types: types/bientity_action_types.md
+        - Entity Action Types: types/entity_action_types.md
+        - Item Action Types: types/item_action_types.md
+    - Condition Types:        - Bientity Condition Types: types/bientity_condition_types.md
+        - Block Condition Types: types/block_condition_types.md
+        - Entity Condition Types: types/entity_condition_types.md
+        - Item Condition Types: types/item_condition_types.md
+theme:
+    name: material
+    palette:
+      - media: "(prefers-color-scheme: dark)"
+     scheme: slate
+     primary: deep purple
+      toggle:
+           icon: material/toggle-switch-off-outline
+          name: Switch to light mode
+      - media: "(prefers-color-scheme: light)"
+     scheme: default
+     primary: deep purple
+      toggle:
+           icon: material/toggle-switch
+          name: Switch to dark mode
+
+separator: '_'
+plugins:
+     - search
+     - mermaid2:
+        version: 8.6.4
+        arguments:
+            theme: 'neutral'
+
+markdown_extensions:
+     - admonitionextra_javascript:
+     - https://unpkg.com/mermaid@8.7.0/dist/mermaid.min.js
