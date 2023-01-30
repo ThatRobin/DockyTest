@@ -1,7 +1,8 @@
 site_name: Robin's Apoli Additions
 
 nav:
-    - Home: index.md    - Power Types:
+    - Home: index.md
+    - Power Types:
         - Power Types: types/power_types.md
     - Action Types:
         - Bientity Action Types: types/bientity_action_types.md
