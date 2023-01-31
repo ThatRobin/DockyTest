@@ -1,7 +1,7 @@
 site_name: Robin's Apoli Additions
 
 nav:
-	- Home: index.md
+    - Home: index.md
 	- Types:
 		- Task Types: types/task_types.md
 		- Power Types: types/power_types.md
@@ -17,30 +17,30 @@ nav:
 		- Item Action Types: types/item_action_types.md
 
 theme:
-	name: material
-	palette:
-	- media: "(prefers-color-scheme: dark)"
-			scheme: slate
-			primary: deep purple
-			toggle:
-				icon: material/toggle-switch-off-outline
-				name: Switch to light mode
-		- media: "(prefers-color-scheme: light)"
-			scheme: default
-			primary: deep purple
-			toggle:
-				icon: material/toggle-switch
-				name: Switch to dark mode
+    name: material
+    palette:
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: deep purple
+          toggle:
+            icon: material/toggle-switch-off-outline
+            name: Switch to light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: deep purple
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to dark mode
 
 separator: '_'
 plugins:
-	- search
-	- mermaid2:
-		version: 8.6.4
-		arguments:
-			theme: 'neutral'
+    - search
+    - mermaid2:
+        version: 8.6.4
+        arguments:
+            theme: 'neutral'
 
 markdown_extensions:
-	- admonition
+    - admonition
 extra_javascript:
-	- https://unpkg.com/mermaid@8.7.0/dist/mermaid.min.js
+    - https://unpkg.com/mermaid@8.7.0/dist/mermaid.min.js
