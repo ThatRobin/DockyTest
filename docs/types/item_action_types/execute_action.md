@@ -1,6 +1,8 @@
 # Execute Action
 [Item Action Type](../item_action_types.md)
+
 Executes an item action that is stored in a file.
+
 Type ID: `ra_additions:execute_action`
 ### Fields
 Field | Type | Default | Description

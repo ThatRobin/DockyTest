@@ -1,6 +1,8 @@
 # Border
 [Power Type](../power_types.md)
+
 Creates a border around the entity with this power. Only entities that fulfil the conditions may pass through it.
+
 Type ID: `ra_additions:border`
 ### Fields
 Field | Type | Default | Description

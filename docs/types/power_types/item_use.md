@@ -1,6 +1,8 @@
 # Item Use
 [Power Type](../power_types.md)
+
 This power uses the existing item interaction system in Minecraft to execute actions. which means that when used, the actions won't happen if something of higher priority occurs (for example opening a chest).
+
 Type ID: `ra_additions:item_use`
 ### Fields
 Field | Type | Default | Description

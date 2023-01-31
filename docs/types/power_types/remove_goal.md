@@ -1,6 +1,8 @@
 # Remove Goal
 [Power Type](../power_types.md)
+
 The entity with this power will have any goals listed removed from itself.
+
 Type ID: `ra_additions:remove_goal`
 ### Fields
 Field | Type | Default | Description

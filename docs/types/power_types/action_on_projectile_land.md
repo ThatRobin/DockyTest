@@ -1,6 +1,8 @@
 # Action On Projectile Land
 [Power Type](../power_types.md)
+
 Executes an Entity Action and a Block Action at the location that a thrown projectile lands.
+
 Type ID: `ra_additions:action_on_projectile_land`
 ### Fields
 Field | Type | Default | Description

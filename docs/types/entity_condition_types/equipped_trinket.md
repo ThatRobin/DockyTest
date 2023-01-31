@@ -1,6 +1,8 @@
 # Equipped Trinket
 [Entity Condition Type](../entity_condition_types.md)
+
 Checks all the players trinket slots with an [Item Condition](https://origins.readthedocs.io/en/latest/types/item_condition_types/).
+
 Type ID: `ra_additions:equipped_trinket`
 ### Fields
 Field | Type | Default | Description

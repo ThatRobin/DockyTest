@@ -1,6 +1,8 @@
 # Stat Bar
 [Power Type](../power_types.md)
+
 Defines a stat bar for the player. Holds a persistent integer value between 0, and 20.
+
 Type ID: `ra_additions:stat_bar`
 ### Fields
 Field | Type | Default | Description
