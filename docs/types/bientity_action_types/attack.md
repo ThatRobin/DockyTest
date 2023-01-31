@@ -10,7 +10,6 @@ Field | Type | Default | Description
 `allow_weapons` | [Boolean](../data_types/boolean.md) | false | Should weapons/tools be taken into account in the attack.
 `allow_effects` | [Boolean](../data_types/boolean.md) | false | Should effects be taken into account in the attack.
 `allow_attributes` | [Boolean](../data_types/boolean.md) | false | Should attributes be taken into account in the attack.
-`inverted` | [Boolean](../data_types/boolean.md) | false | null
 
 ### Example
 ```json

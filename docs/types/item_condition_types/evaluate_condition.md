@@ -6,7 +6,6 @@ Type ID: `ra_additions:evaluate_condition`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `item_condition` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or condition file to be evaluated
-`inverted` | [Boolean](../data_types/boolean.md) | false | null
 
 ### Example
 ```json

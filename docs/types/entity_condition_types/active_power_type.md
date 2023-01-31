@@ -7,7 +7,6 @@ Field | Type | Default | Description
 ------|------|---------|-------------
 `power_type` | [Identifier](../data_types/identifier.md) | _optional_ | The namespace ID of the power type which will be checked to see if any are active.
 `blacklisted_powers` |  | _optional_ | The namespace IDs of powers that will be excluded from the check.
-`inverted` | [Boolean](../data_types/boolean.md) | false | null
 
 ### Example
 ```json

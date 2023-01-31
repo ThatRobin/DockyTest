@@ -6,7 +6,6 @@ Type ID: `ra_additions:equipped_trinket`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `item_condition` | [Item Condition](../data_types/item_condition.md) | _optional_ | The items that are searched for in the trinket slots.
-`inverted` | [Boolean](../data_types/boolean.md) | false | null
 
 ### Example
 ```json

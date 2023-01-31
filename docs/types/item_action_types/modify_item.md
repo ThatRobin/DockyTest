@@ -6,7 +6,6 @@ Type ID: `ra_additions:modify_item`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `modifier` | [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of an item modifier.
-`inverted` | [Boolean](../data_types/boolean.md) | false | null
 
 ### Example
 ```json
