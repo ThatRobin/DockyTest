@@ -10,7 +10,6 @@ Field | Type | Default | Description
 `self_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | The entity action to be executed on the player if specified.
 `block_action` | [Block Action](../data_types/block_action.md) | _optional_ | The block action to be executed if specified.
 `block_condition` | [Block Condition](../data_types/block_condition.md) | _optional_ | If specified, only execute the specified actions if the block condition is fulfilled.
-`condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | null
 
 ### Example
 ```json

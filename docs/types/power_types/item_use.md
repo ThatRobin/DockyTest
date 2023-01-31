@@ -9,7 +9,6 @@ Field | Type | Default | Description
 `entity_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | The entity action to be executed on the player if specified.
 `item_condition` | [Item Condition](../data_types/item_condition.md) | _optional_ | If specified, only execute the action if the item condition is fulfilled.
 `item_action` | [Item Action](../data_types/item_action.md) | _optional_ | The item action to be executed if specified.
-`condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | null
 
 ### Example
 ```json

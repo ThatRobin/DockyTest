@@ -12,7 +12,6 @@ Field | Type | Default | Description
 `text` | [Text](../data_types/text.md) | _optional_ | The text displayed above the boss bar.
 `min_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | If specified, this action will be executed on the entity whenever the minimum value is reached.
 `max_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | If specified, this action will be executed on the entity whenever the maximum value is reached.
-`condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | null
 
 ### Example
 ```json

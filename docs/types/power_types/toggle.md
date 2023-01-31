@@ -10,7 +10,6 @@ Field | Type | Default | Description
 `toggle_on_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | The entity action to be executed when the power is toggled on.
 `toggle_off_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | The entity action to be executed when the power is toggled off.
 `key` | [Backwards Compatible Key](../data_types/backwards_compatible_key.md) | io.github.apace100.apoli.power.Active$Key@642405e | Which active key this power should respond to.
-`condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | null
 
 ### Example
 ```json

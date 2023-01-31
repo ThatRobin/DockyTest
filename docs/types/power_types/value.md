@@ -11,7 +11,6 @@ Field | Type | Default | Description
 `y` | [Int](../data_types/int.md) | 0 | The Y co-ordinate that the string will appear at.
 `value_key` | [String](../data_types/string.md) | _optional_ | The string that will contain the value
 `start_value` | [Int](../data_types/int.md) | _optional_ | The value of the power when the entity first receives it. If not set, this will be set to the value of the min integer field.
-`condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | null
 
 ### Example
 ```json

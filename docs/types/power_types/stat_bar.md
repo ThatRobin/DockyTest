@@ -7,7 +7,6 @@ Field | Type | Default | Description
 ------|------|---------|-------------
 `start_value` | [Int](../data_types/int.md) | 20 | The value of the resource when the player first gains this power.
 `hud_render` | [Stat Bar Hud Render](../data_types/stat_bar_hud_render.md) | _optional_ | Specifies how and if the stat bar is displayed with a bar on the HUD.
-`condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | null
 
 ### Example
 ```json

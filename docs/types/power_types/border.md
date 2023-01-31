@@ -14,7 +14,6 @@ Field | Type | Default | Description
 `alpha` | [Float](../data_types/float.md) | 0.5 | The alpha (transparency) value of the border.
 `scroll_texture` | [Boolean](../data_types/boolean.md) | true | Defines whether the border scrolls like the vanila border.
 `size` | [Double](../data_types/double.md) | 6.0 | The distance to one side of the border from the center.
-`condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | null
 
 ### Example
 ```json
