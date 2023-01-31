@@ -15,11 +15,11 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:item_use",
-    "cooldown": 20,
-    "item_action": {
-        "type": "apoli:damage",
-        "amount": 1
-    }
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:item_use",
+  "cooldown": 20,
+  "item_action": {
+    "type": "apoli:damage",
+    "amount": 1
+  }
+}```
+This example will make it so that you can use any item, which lowers it's durability by 1, and put that item on cooldown for 20 seconds.

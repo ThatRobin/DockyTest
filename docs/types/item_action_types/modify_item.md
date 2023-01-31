@@ -12,7 +12,7 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:modify_item",
-    "modifier": "example_pack:stuff"
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:modify_item",
+  "modifier": "test_pack:stuff"
+}```
+This example will apply the `test_pack:stuff` item modifier to the item.

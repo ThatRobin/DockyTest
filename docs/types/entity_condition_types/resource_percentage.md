@@ -14,9 +14,9 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:resource_percentage",
-    "resource": "example_pack:magic_resource",
-    "comparison": ">=",
-    "percentage": 75
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:resource_percentage",
+  "resource": "test_pack:test_resource",
+  "comparison": "\u003e\u003d",
+  "percentage": 75
+}```
+This example will check if the `test_pack:test_resource` is above 75% full.

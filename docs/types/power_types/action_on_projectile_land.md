@@ -16,14 +16,14 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:action_on_projectile_land",
-    "block_action": {
-        "type": "apoli:set_block",
-        "block": "minecraft:diamond_block"
-    },
-    "block_condition": {
-        "type": "apoli:block",
-        "block": "minecraft:coal_block"
-    }
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:action_on_projectile_land",
+  "block_action": {
+    "type": "apoli:set_block",
+    "block": "minecraft:diamond_block"
+  },
+  "block_condition": {
+    "type": "apoli:block",
+    "block": "minecraft:coal_block"
+  }
+}```
+This example will make it so that any projectile that you throw, that lands on a coal block, will become a diamond block.

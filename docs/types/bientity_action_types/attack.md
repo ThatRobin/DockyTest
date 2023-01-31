@@ -16,14 +16,14 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:attack",
-    "allow_enchants": true,
-    "allow_weapons": true,
-    "allow_effects": true,
-    "allow_attributes": true,
-    "source": {
-        "name": "player",
-        "bypasses_armor": true
-    }
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:attack",
+  "allow_enchants": true,
+  "allow_weapons": true,
+  "allow_effects": true,
+  "allow_attributes": true,
+  "source": {
+    "name": "player",
+    "bypasses_armor": true
+  }
+}```
+This example will attack the target using the targets weapons, enchants, status effects and attributes, whilst ignoring the targets armour.

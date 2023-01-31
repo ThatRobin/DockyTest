@@ -12,12 +12,12 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:equipped_trinket",
-    "item_condition": {
-        "type": "apoli:ingredient",
-        "ingredient": {
-            "item": "minecraft:emerald"
-        }
+  "type": "ra_additions:equipped_trinket",
+  "item_condition": {
+    "type": "apoli:ingredient",
+    "ingredient": {
+      "item": "minecraft:emerald"
     }
-}```
-INSERT DESCRIPTION HERE
+  }
+}```
+This example will check if the entity has an emerald equipped in any of their trinkets slots.

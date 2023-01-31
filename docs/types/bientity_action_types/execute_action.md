@@ -12,7 +12,7 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:execute_action",
-    "bientity_action": "example_pack:attack_example"
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:execute_action",
+  "bientity_action": "test_pack:attack_example"
+}```
+This example will run the `test_pack:attack_example` bi-entity action.

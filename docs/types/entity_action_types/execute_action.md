@@ -12,7 +12,7 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:execute_action",
-    "entity_action": "example_pack:open_choice_screen_example"
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:execute_action",
+  "entity_action": "test_pack:open_choice_screen_example"
+}```
+This example will run the `test_pack:open_choice_screen_example` entity action.

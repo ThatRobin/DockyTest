@@ -16,10 +16,10 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:toggle",
-    "active_by_default": false,
-    "key": {
-        "key": "key.use"
-    }
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:toggle",
+  "active_by_default": false,
+  "key": {
+    "key": "key.use"
+  }
+}```
+This example will provide a switch that is not active by default, and can be toggled with the `key.use` keybind.

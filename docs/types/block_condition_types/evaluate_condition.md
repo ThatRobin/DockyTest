@@ -12,7 +12,7 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:evaluate_condition",
-    "block_condition": "example_pack:test_condition"
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:evaluate_condition",
+  "block_condition": "test_pack:test_condition"
+}```
+This example will check the `test_pack:test_condition` block condition.

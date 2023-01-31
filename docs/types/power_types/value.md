@@ -17,9 +17,9 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:value",
-    "x": 70,
-    "y": 70,
-    "value_key": "You have %s value"
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:value",
+  "x": 70,
+  "y": 70,
+  "value_key": "You have %s value"
+}```
+This example is a value, which creates a string of text that says `you have X value` where X is the internal value of the power.

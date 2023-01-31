@@ -12,7 +12,7 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:execute_action",
-    "block_action": "example_pack:test_action"
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:execute_action",
+  "block_action": "test_pack:test_action"
+}```
+This example will run the `test_pack:test_action` block action.

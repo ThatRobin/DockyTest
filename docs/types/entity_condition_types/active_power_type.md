@@ -13,10 +13,10 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:active_power_type",
-    "power_type": "apoli:elytra_flight",
-    "blacklisted_powers": [
-        "origins:elytra"
-    ]
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:active_power_type",
+  "power_type": "apoli:elytra_flight",
+  "blacklisted_powers": [
+    "origins:elytra"
+  ]
+}```
+This example will check if the player has an elytra flight power that is not the elytrian's power.

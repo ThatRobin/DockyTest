@@ -13,11 +13,11 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:use_as_bundle",
-    "hold_amount": 64,
-    "item_condition": {
-        "type": "apoli:nbt",
-        "nbt": "{isBundle:1b}"
-    }
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:use_as_bundle",
+  "hold_amount": 64,
+  "item_condition": {
+    "type": "apoli:nbt",
+    "nbt": "{isBundle:1b}"
+  }
+}```
+This example makes it so that any item with the nbt data `{isBundle:1b}` is able to be used as a bundle.

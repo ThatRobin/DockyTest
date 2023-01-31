@@ -20,16 +20,16 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:border",
-    "size": 12,
-    "red": 1,
-    "green": 1,
-    "blue": 1,
-    "alpha": 0.5,
-    "scroll_texture": false,
-    "border_texture": "minecraft:textures/block/dirt.png",
-    "entity_condition": {
-        "type": "origins:creative_flying"
-    }
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:border",
+  "size": 12,
+  "red": 1,
+  "green": 1,
+  "blue": 1,
+  "alpha": 0.5,
+  "scroll_texture": false,
+  "border_texture": "minecraft:textures/block/dirt.png",
+  "entity_condition": {
+    "type": "origins:creative_flying"
+  }
+}```
+This example will create a border the entity will be able to walk through, but will be unable to fly through.

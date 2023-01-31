@@ -12,7 +12,7 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:evaluate_condition",
-    "entity_condition": "example_pack:active_power_type_example"
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:evaluate_condition",
+  "entity_condition": "test_pack:active_power_type_example"
+}```
+This example will check the `test_pack:active_power_type_example` entity condition.

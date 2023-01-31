@@ -13,10 +13,11 @@ Field | Type | Default | Description
 ### Example
 ```json
 {
-    "type": "ra_additions:remove_goal",
-    "goals": [
-        "attack",
-        "bow_attack"
-    ]
-}```
-INSERT DESCRIPTION HERE
+  "type": "ra_additions:remove_goal",
+  "goals": [
+    "attack",
+    "bow_attack"
+  ],
+  "example_pack": "This example will prevent a mob from doing standard attacks, and bow attacks."
+}```
+
