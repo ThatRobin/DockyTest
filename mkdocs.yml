@@ -1,7 +1,7 @@
 site_name: Robin's Apoli Additions
 
 nav:
-    - Home: index.md
+  - Home: index.md
   - Types:
     - Task Types: types/task_types.md
     - Power Types: types/power_types.md
