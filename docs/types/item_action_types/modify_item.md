@@ -8,3 +8,10 @@ Field | Type | Default | Description
 `modifier` | [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of an item modifier.
 `inverted` | [Boolean](../data_types/boolean.md) | false | null
 
+### Example
+```json
+{
+    "type": "ra_additions:modify_item",
+    "modifier": "example_pack:stuff"
+}```
+INSERT DESCRIPTION HERE

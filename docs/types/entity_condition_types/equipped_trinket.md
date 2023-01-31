@@ -8,3 +8,15 @@ Field | Type | Default | Description
 `item_condition` | [Item Condition](../data_types/item_condition.md) | _optional_ | The items that are searched for in the trinket slots.
 `inverted` | [Boolean](../data_types/boolean.md) | false | null
 
+### Example
+```json
+{
+    "type": "ra_additions:equipped_trinket",
+    "item_condition": {
+        "type": "apoli:ingredient",
+        "ingredient": {
+            "item": "minecraft:emerald"
+        }
+    }
+}```
+INSERT DESCRIPTION HERE

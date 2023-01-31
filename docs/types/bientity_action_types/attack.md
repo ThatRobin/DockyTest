@@ -12,3 +12,17 @@ Field | Type | Default | Description
 `allow_attributes` | [Boolean](../data_types/boolean.md) | false | Should attributes be taken into account in the attack.
 `inverted` | [Boolean](../data_types/boolean.md) | false | null
 
+### Example
+```json
+{
+    "type": "ra_additions:attack",
+    "allow_enchants": true,
+    "allow_weapons": true,
+    "allow_effects": true,
+    "allow_attributes": true,
+    "source": {
+        "name": "player",
+        "bypasses_armor": true
+    }
+}```
+INSERT DESCRIPTION HERE

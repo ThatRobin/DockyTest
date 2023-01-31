@@ -9,3 +9,13 @@ Field | Type | Default | Description
 `blacklisted_powers` |  | _optional_ | The namespace IDs of powers that will be excluded from the check.
 `inverted` | [Boolean](../data_types/boolean.md) | false | null
 
+### Example
+```json
+{
+    "type": "ra_additions:active_power_type",
+    "power_type": "apoli:elytra_flight",
+    "blacklisted_powers": [
+        "origins:elytra"
+    ]
+}```
+INSERT DESCRIPTION HERE

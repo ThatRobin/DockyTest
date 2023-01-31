@@ -8,3 +8,10 @@ Field | Type | Default | Description
 `choice_layer` | [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of the choice layer that the action will open.
 `inverted` | [Boolean](../data_types/boolean.md) | false | null
 
+### Example
+```json
+{
+    "type": "ra_additions:open_choice_screen",
+    "choice_layer": "example:choice"
+}```
+INSERT DESCRIPTION HERE

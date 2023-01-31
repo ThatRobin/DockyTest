@@ -8,3 +8,10 @@ Field | Type | Default | Description
 `entity_condition` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or condition file to be evaluated
 `inverted` | [Boolean](../data_types/boolean.md) | false | null
 
+### Example
+```json
+{
+    "type": "ra_additions:evaluate_condition",
+    "entity_condition": "example_pack:active_power_type_example"
+}```
+INSERT DESCRIPTION HERE

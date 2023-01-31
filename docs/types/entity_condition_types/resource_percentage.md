@@ -10,3 +10,12 @@ Field | Type | Default | Description
 `percentage` | [Int](../data_types/int.md) | 50 | The percentage value to compare the value of the power that will be evaluated to. `(e.g 50%)`
 `inverted` | [Boolean](../data_types/boolean.md) | false | null
 
+### Example
+```json
+{
+    "type": "ra_additions:resource_percentage",
+    "resource": "example_pack:magic_resource",
+    "comparison": ">=",
+    "percentage": 75
+}```
+INSERT DESCRIPTION HERE
