@@ -21,5 +21,6 @@ Field | Type | Default | Description
     "type": "apoli:damage",
     "amount": 1
   }
-}```
+}
+```
 This example will make it so that you can use any item, which lowers it's durability by 1, and put that item on cooldown for 20 seconds.

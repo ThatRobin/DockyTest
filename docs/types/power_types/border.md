@@ -31,5 +31,6 @@ Field | Type | Default | Description
   "entity_condition": {
     "type": "origins:creative_flying"
   }
-}```
+}
+```
 This example will create a border the entity will be able to walk through, but will be unable to fly through.

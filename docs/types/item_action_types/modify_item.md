@@ -14,5 +14,6 @@ Field | Type | Default | Description
 {
   "type": "ra_additions:modify_item",
   "modifier": "test_pack:stuff"
-}```
+}
+```
 This example will apply the `test_pack:stuff` item modifier to the item.

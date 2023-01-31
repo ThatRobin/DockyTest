@@ -15,5 +15,6 @@ Field | Type | Default | Description
 {
   "type": "ra_additions:add_goal",
   "goal": "example:stuff"
-}```
+}
+```
 This example will apply the `example:stuff` mob goal to the entity with the power.

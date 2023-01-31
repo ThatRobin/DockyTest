@@ -19,5 +19,6 @@ Field | Type | Default | Description
       "item": "minecraft:emerald"
     }
   }
-}```
+}
+```
 This example will check if the entity has an emerald equipped in any of their trinkets slots.

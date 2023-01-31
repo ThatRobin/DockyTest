@@ -24,5 +24,6 @@ Field | Type | Default | Description
   "icon": "minecraft:emerald",
   "name": "Mana Abilities",
   "description": "You can use mana with your magical staff to activate its powers."
-}```
+}
+```
 This example is a stat bar, which creates a bar of the given texture that is already completely filled.

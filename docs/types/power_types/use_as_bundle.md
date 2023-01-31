@@ -19,5 +19,6 @@ Field | Type | Default | Description
     "type": "apoli:nbt",
     "nbt": "{isBundle:1b}"
   }
-}```
+}
+```
 This example makes it so that any item with the nbt data `{isBundle:1b}` is able to be used as a bundle.

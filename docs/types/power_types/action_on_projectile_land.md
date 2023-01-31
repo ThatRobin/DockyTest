@@ -25,5 +25,6 @@ Field | Type | Default | Description
     "type": "apoli:block",
     "block": "minecraft:coal_block"
   }
-}```
+}
+```
 This example will make it so that any projectile that you throw, that lands on a coal block, will become a diamond block.

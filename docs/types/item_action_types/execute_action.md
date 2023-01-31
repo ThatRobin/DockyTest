@@ -14,5 +14,6 @@ Field | Type | Default | Description
 {
   "type": "ra_additions:execute_action",
   "item_action": "test_pack:modify_item_example"
-}```
+}
+```
 This example will run the `test_pack:modify_item_example` item action.

@@ -27,5 +27,6 @@ Field | Type | Default | Description
       "item": "minecraft:trident"
     }
   }
-}```
+}
+```
 This example would make it so that any trident that enters your inventory can't leave it until death, and can't be thrown.

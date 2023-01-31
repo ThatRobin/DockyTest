@@ -14,5 +14,6 @@ Field | Type | Default | Description
 {
   "type": "ra_additions:evaluate_condition",
   "bientity_condition": "test_pack:test_condition"
-}```
+}
+```
 This example will check the `test_pack:test_condition` item condition.

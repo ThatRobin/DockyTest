@@ -18,5 +18,6 @@ Field | Type | Default | Description
   "blacklisted_powers": [
     "origins:elytra"
   ]
-}```
+}
+```
 This example will check if the player has an elytra flight power that is not the elytrian's power.

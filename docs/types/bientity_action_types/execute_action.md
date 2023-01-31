@@ -14,5 +14,6 @@ Field | Type | Default | Description
 {
   "type": "ra_additions:execute_action",
   "bientity_action": "test_pack:attack_example"
-}```
+}
+```
 This example will run the `test_pack:attack_example` bi-entity action.

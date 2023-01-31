@@ -25,5 +25,6 @@ Field | Type | Default | Description
     "name": "player",
     "bypasses_armor": true
   }
-}```
+}
+```
 This example will attack the target using the targets weapons, enchants, status effects and attributes, whilst ignoring the targets armour.

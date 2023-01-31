@@ -18,5 +18,6 @@ Field | Type | Default | Description
   "resource": "test_pack:test_resource",
   "comparison": "\u003e\u003d",
   "percentage": 75
-}```
+}
+```
 This example will check if the `test_pack:test_resource` is above 75% full.

@@ -19,5 +19,6 @@ Field | Type | Default | Description
     "bow_attack"
   ],
   "example_pack": "This example will prevent a mob from doing standard attacks, and bow attacks."
-}```
+}
+```
 
