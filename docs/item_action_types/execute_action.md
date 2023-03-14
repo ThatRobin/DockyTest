@@ -1,5 +1,5 @@
-# Execute action
-[Item action types Type](../item_action_types_types.md)
+# Execute Action
+[Item Action Types Type](../item_action_types_types.md)
 
 Executes an item action that is stored in a file.
 

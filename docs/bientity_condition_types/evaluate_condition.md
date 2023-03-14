@@ -1,5 +1,5 @@
-# Evaluate condition
-[Bientity condition types Type](../bientity_condition_types_types.md)
+# Evaluate Condition
+[Bientity Condition Types Type](../bientity_condition_types_types.md)
 
 Evaluates a bi-entity condition that is stored in a file.
 

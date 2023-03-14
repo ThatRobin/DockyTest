@@ -1,6 +1,6 @@
-# Block condition types
+# Block Condition Types
 
 
 ### List
 
- * [Evaluate condition](block_condition_types/evaluate_condition.md)
+ * [Evaluate Condition](block_condition_types/evaluate_condition.md)
