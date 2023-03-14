@@ -1,5 +1,5 @@
 # Remove Goal
-[Power Type](../power_types.md)
+[Power Types Type](../power_types_types.md)
 
 The entity with this power will have any goals listed removed from itself.
 
@@ -21,4 +21,3 @@ Field | Type | Default | Description
   "example_pack": "This example will prevent a mob from doing standard attacks, and bow attacks."
 }
 ```
-

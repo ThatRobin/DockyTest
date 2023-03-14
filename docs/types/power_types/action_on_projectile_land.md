@@ -1,5 +1,5 @@
 # Action On Projectile Land
-[Power Type](../power_types.md)
+[Power Types Type](../power_types_types.md)
 
 Executes an Entity Action and a Block Action at the location that a thrown projectile lands.
 

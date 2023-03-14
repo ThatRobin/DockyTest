@@ -1,5 +1,5 @@
 # Stat Bar
-[Power Type](../power_types.md)
+[Power Types Type](../power_types_types.md)
 
 Defines a stat bar for the player. Holds a persistent integer value between 0, and 20.
 

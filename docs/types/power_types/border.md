@@ -1,5 +1,5 @@
 # Border
-[Power Type](../power_types.md)
+[Power Types Type](../power_types_types.md)
 
 Creates a border around the entity with this power. Only entities that fulfil the conditions may pass through it.
 

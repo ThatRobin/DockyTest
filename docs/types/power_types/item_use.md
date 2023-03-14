@@ -1,5 +1,5 @@
 # Item Use
-[Power Type](../power_types.md)
+[Power Types Type](../power_types_types.md)
 
 This power uses the existing item interaction system in Minecraft to execute actions. which means that when used, the actions won't happen if something of higher priority occurs (for example opening a chest).
 

@@ -1,5 +1,5 @@
 # Execute Action
-[Entity Action Type](../entity_action_types.md)
+[Entity Action Types Type](../entity_action_types_types.md)
 
 Executes an entity action that is stored in a file.
 

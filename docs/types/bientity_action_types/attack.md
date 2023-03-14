@@ -1,5 +1,5 @@
 # Attack
-[Bientity Action Type](../bientity_action_types.md)
+[Bientity Action Types Type](../bientity_action_types_types.md)
 
 The actor entity will damage the target enemy as if they had just been hit with the weapon in the actors hand.
 

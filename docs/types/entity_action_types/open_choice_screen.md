@@ -1,7 +1,7 @@
 # Open Choice Screen
-[Entity Action Type](../entity_action_types.md)
+[Entity Action Types Type](../entity_action_types_types.md)
 
-Opens the choice screen for the player, allowing for them to select a specific choice.
+Opens the specified choice screen for the player it is executed as.
 
 Type ID: `ra_additions:open_choice_screen`
 ### Fields

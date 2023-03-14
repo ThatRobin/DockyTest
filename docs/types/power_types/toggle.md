@@ -1,5 +1,5 @@
 # Toggle
-[Power Type](../power_types.md)
+[Power Types Type](../power_types_types.md)
 
 A custom version of Apoli's [Toggle (Power Type)](https://origins.readthedocs.io/en/latest/types/power_types/toggle/)
 
