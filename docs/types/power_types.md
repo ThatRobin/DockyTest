@@ -1,16 +1,16 @@
-# Power Types
+# Power types
 
 
 ### List
 
- * [Action On Projectile Land](power_types/action_on_projectile_land.md)
- * [Add Goal](power_types/add_goal.md)
- * [Bind Item](power_types/bind_item.md)
+ * [Action on projectile land](power_types/action_on_projectile_land.md)
+ * [Add goal](power_types/add_goal.md)
+ * [Bind item](power_types/bind_item.md)
  * [Border](power_types/border.md)
- * [Boss Bar](power_types/boss_bar.md)
- * [Item Use](power_types/item_use.md)
- * [Remove Goal](power_types/remove_goal.md)
- * [Stat Bar](power_types/stat_bar.md)
+ * [Boss bar](power_types/boss_bar.md)
+ * [Use as bundle](power_types/use_as_bundle.md)
  * [Toggle](power_types/toggle.md)
- * [Use As Bundle](power_types/use_as_bundle.md)
+ * [Item use](power_types/item_use.md)
+ * [Remove goal](power_types/remove_goal.md)
+ * [Stat bar](power_types/stat_bar.md)
  * [Value](power_types/value.md)

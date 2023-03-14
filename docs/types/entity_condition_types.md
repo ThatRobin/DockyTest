@@ -1,9 +1,9 @@
-# Entity Condition Types
+# Entity condition types
 
 
 ### List
 
- * [Active Power Type](entity_condition_types/active_power_type.md)
- * [Equipped Trinket](entity_condition_types/equipped_trinket.md)
- * [Evaluate Condition](entity_condition_types/evaluate_condition.md)
- * [Resource Percentage](entity_condition_types/resource_percentage.md)
+ * [Active power type](entity_condition_types/active_power_type.md)
+ * [Resource percentage](entity_condition_types/resource_percentage.md)
+ * [Evaluate condition](entity_condition_types/evaluate_condition.md)
+ * [Equipped trinket](entity_condition_types/equipped_trinket.md)

@@ -1,7 +1,7 @@
-# Item Action Types
+# Item action types
 
 
 ### List
 
- * [Execute Action](item_action_types/execute_action.md)
- * [Modify Item](item_action_types/modify_item.md)
+ * [Modify item](item_action_types/modify_item.md)
+ * [Execute action](item_action_types/execute_action.md)

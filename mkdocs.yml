@@ -3,18 +3,18 @@ site_name: Robin's Apoli Additions
 nav:
   - Home: index.md
   - Types:
-    - Task Types: types/task_types.md
-    - Power Types: types/power_types.md
+    - Task Types: task_types.md
+    - Power Types: power_types.md
   - Condition Types:
-    - Entity Condition Types: types/entity_condition_types.md
-    - Bientity Condition Types: types/bientity_condition_types.md
-    - Block Condition Types: types/block_condition_types.md
-    - Item Condition Types: types/item_condition_types.md
+    - Entity Condition Types: entity_condition_types.md
+    - Bientity Condition Types: bientity_condition_types.md
+    - Block Condition Types: block_condition_types.md
+    - Item Condition Types: item_condition_types.md
   - Action Types:
-    - Entity Action Types: types/entity_action_types.md
-    - Bientity Action Types: types/bientity_action_types.md
-    - Block Action Types: types/block_action_types.md
-    - Item Action Types: types/item_action_types.md
+    - Entity Action Types: entity_action_types.md
+    - Bientity Action Types: bientity_action_types.md
+    - Block Action Types: block_action_types.md
+    - Item Action Types: item_action_types.md
 
 theme:
     name: material

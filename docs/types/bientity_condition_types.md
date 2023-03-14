@@ -1,6 +1,6 @@
-# Bientity Condition Types
+# Bientity condition types
 
 
 ### List
 
- * [Evaluate Condition](bientity_condition_types/evaluate_condition.md)
+ * [Evaluate condition](bientity_condition_types/evaluate_condition.md)
