@@ -1,5 +1,5 @@
-# Add Goal
-[Power Types Type](../power_types_types.md)
+# Add goal
+[Power types Type](../power_types_types.md)
 
 Adds a custom goal (from `data/{namespace}/goals/`) to the entity with this power.
 

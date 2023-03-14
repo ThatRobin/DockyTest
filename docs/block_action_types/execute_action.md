@@ -1,5 +1,5 @@
-# Execute Action
-[Block Action Types Type](../block_action_types_types.md)
+# Execute action
+[Block action types Type](../block_action_types_types.md)
 
 Executes a block action that is stored in a file.
 

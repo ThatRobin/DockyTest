@@ -1,5 +1,5 @@
-# Execute Action
-[Bientity Action Types Type](../bientity_action_types_types.md)
+# Execute action
+[Bientity action types Type](../bientity_action_types_types.md)
 
 Executes a bi-entity action that is stored in a file.
 

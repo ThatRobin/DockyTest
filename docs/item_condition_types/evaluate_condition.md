@@ -1,5 +1,5 @@
-# Evaluate Condition
-[Item Condition Types Type](../item_condition_types_types.md)
+# Evaluate condition
+[Item condition types Type](../item_condition_types_types.md)
 
 Evaluates an item condition that is stored in a file.
 

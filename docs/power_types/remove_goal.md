@@ -1,5 +1,5 @@
-# Remove Goal
-[Power Types Type](../power_types_types.md)
+# Remove goal
+[Power types Type](../power_types_types.md)
 
 The entity with this power will have any goals listed removed from itself.
 

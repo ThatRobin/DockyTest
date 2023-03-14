@@ -1,5 +1,5 @@
-# Use As Bundle
-[Power Types Type](../power_types_types.md)
+# Use as bundle
+[Power types Type](../power_types_types.md)
 
 Allows an item to be used like a bundle, with a customizable capacity.
 
@@ -8,7 +8,7 @@ Type ID: `ra_additions:use_as_bundle`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `max_amount` | [Int](../data_types/int.md) | 64 | the amount of items you can store in the bundle.
-`item_condition` | [Item Condition](../data_types/item_condition.md) | _optional_ | Items that fulfil this condition, will be bundle-like.
+`item_condition` | [Item condition](../data_types/item_condition.md) | _optional_ | Items that fulfil this condition, will be bundle-like.
 
 ### Example
 ```json

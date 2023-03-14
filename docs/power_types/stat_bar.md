@@ -1,5 +1,5 @@
-# Stat Bar
-[Power Types Type](../power_types_types.md)
+# Stat bar
+[Power types Type](../power_types_types.md)
 
 Defines a stat bar for the player. Holds a persistent integer value between 0, and 20.
 
@@ -8,7 +8,7 @@ Type ID: `ra_additions:stat_bar`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `start_value` | [Int](../data_types/int.md) | 20 | The value of the resource when the player first gains this power.
-`hud_render` | [Stat Bar Hud Render](../data_types/stat_bar_hud_render.md) | _optional_ | Specifies how and if the stat bar is displayed with a bar on the HUD.
+`hud_render` | [Stat bar hud render](../data_types/stat_bar_hud_render.md) | _optional_ | Specifies how and if the stat bar is displayed with a bar on the HUD.
 
 ### Example
 ```json

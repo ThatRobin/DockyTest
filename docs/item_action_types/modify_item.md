@@ -1,5 +1,5 @@
-# Modify Item
-[Item Action Types Type](../item_action_types_types.md)
+# Modify item
+[Item action types Type](../item_action_types_types.md)
 
 Applies an item modifier to the item stack with a player fulfilling the "this" criteria.
 
