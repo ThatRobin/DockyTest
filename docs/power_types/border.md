@@ -14,7 +14,7 @@ Field | Type | Default | Description
 `green` | [Float](../data_types/float.md) | 0.627451 | The green value of the border.
 `blue` | [Float](../data_types/float.md) | 1.0 | The blue value of the border.
 `alpha` | [Float](../data_types/float.md) | 0.5 | The alpha (transparency) value of the border.
-`scroll_texture` | [Boolean](../data_types/boolean.md) | true | Defines whether the border scrolls like the vanila border.
+`scroll_texture` | [Boolean](../data_types/boolean.md) | true | Defines whether the border scrolls like the vanilla border.
 `size` | [Double](../data_types/double.md) | 6.0 | The distance to one side of the border from the center.
 
 ### Example

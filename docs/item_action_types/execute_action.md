@@ -13,7 +13,7 @@ Field | Type | Default | Description
 ```json
 {
   "type": "ra_additions:execute_action",
-  "item_action": "test_pack:modify_item_example"
+  "item_action": "ra_additions:modify_item_example"
 }
 ```
-This example will run the `test_pack:modify_item_example` item action.
+This example will run the `ra_additions:modify_item_example` item action.

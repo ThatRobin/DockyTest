@@ -13,7 +13,7 @@ Field | Type | Default | Description
 ```json
 {
   "type": "ra_additions:modify_item",
-  "modifier": "test_pack:stuff"
+  "modifier": "ra_additions:stuff"
 }
 ```
-This example will apply the `test_pack:stuff` item modifier to the item.
+This example will apply the `ra_additions:stuff` item modifier to the item.

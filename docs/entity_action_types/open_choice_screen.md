@@ -13,7 +13,7 @@ Field | Type | Default | Description
 ```json
 {
   "type": "ra_additions:open_choice_screen",
-  "choice_layer": "test_pack:choice"
+  "choice_layer": "ra_additions:choice_layer_example"
 }
 ```
-This example will open the choice screen for the `test_pack:choice` layer.
+This example will open the choice screen for the `ra_additions:choice_layer_example` layer.

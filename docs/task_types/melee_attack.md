@@ -1,7 +1,7 @@
-# Revenge
+# Melee attack
 [Task types Type](../task_types_types.md)
 
-Type ID: `ra_additions:revenge`
+Type ID: `ra_additions:melee_attack`
 ### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
