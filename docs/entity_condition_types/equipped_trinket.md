@@ -3,6 +3,8 @@
 
 Checks all the players trinket slots with an Item Condition.
 
+This condition type requires the Trinkets mod to be installed in order to function.
+
 Type ID: `ra_additions:equipped_trinket`
 ### Fields
 Field | Type | Default | Description
