@@ -1,5 +1,5 @@
 # Boss bar
-[Power types Type](../power_types_types.md)
+[Power types](../power_types_types.md)
 
 Defines a boss bar for the player. Essentially identical to a [Resource Bar](https://origins.readthedocs.io/en/latest/types/power_types/resource/) but displays as a boss bar.
 

@@ -1,5 +1,5 @@
 # Bind item
-[Power types Type](../power_types_types.md)
+[Power types](../power_types_types.md)
 
 Makes certain items unable to leave in the entity's inventory until death.
 

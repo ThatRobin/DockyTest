@@ -1,5 +1,5 @@
 # Equipped trinket
-[Entity condition types Type](../entity_condition_types_types.md)
+[Entity condition types](../entity_condition_types_types.md)
 
 Checks all the players trinket slots with an Item Condition.
 

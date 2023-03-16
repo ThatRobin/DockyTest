@@ -1,5 +1,5 @@
 # Use as bundle
-[Power types Type](../power_types_types.md)
+[Power types](../power_types_types.md)
 
 Allows an item to be used like a bundle, with a customizable capacity.
 

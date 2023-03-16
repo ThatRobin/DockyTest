@@ -1,5 +1,5 @@
 # Open choice screen
-[Entity action types Type](../entity_action_types_types.md)
+[Entity action types](../entity_action_types_types.md)
 
 Opens the specified choice screen for the player it is executed as.
 

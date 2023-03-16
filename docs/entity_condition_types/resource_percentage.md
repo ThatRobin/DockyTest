@@ -1,5 +1,5 @@
 # Resource percentage
-[Entity condition types Type](../entity_condition_types_types.md)
+[Entity condition types](../entity_condition_types_types.md)
 
 Checks the percentage of a resource.
 

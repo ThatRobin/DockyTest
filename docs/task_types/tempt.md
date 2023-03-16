@@ -1,5 +1,5 @@
 # Tempt
-[Task types Type](../task_types_types.md)
+[Task types](../task_types_types.md)
 
 Type ID: `ra_additions:tempt`
 ### Fields
