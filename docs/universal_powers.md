@@ -5,7 +5,7 @@ Then, in this file, you enter your powers, and entities.
  | Fields | Type | Default | Description | 
 |---|---|---|---|
  | `powers` | [Array](data_types/array.md) of [Identifiers](data_types/identifier.md) | _optional_ | The namespace and IDs of the powers you want to give to all entities. | 
- | `entity_entry` | [Object](data_types/object.md) | _optional_ | An object that accepts either an `entity` or a `tag` [Identifier](data_types/identifier.md). Cannot be both. | 
+ | `entity_entry` | [Entity Entry](data_types/entity_entry.md) | _optional_ | An object that accepts either an `entity` or a `tag` [Identifier](data_types/identifier.md). Cannot be both. | 
 
 ### Examples
 ```json

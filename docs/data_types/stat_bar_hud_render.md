@@ -12,3 +12,13 @@ An [Object](object.md) used to define how a stat bar should be rendered.
  | sprite_location | [Backwards Compatible Key](null.md) | _optional_ | The path to the file in the assets which contains what the bar looks like. The base mod doesn't include any bars, but you can create your own using Resource Packs. | 
  | null | null | null | null | 
 
+## Example
+```json
+{
+  "should_render": true,
+  "bar_index": 0,
+  "side": "right",
+  "sprite_location": "example_pack:textures/gui/icons.png"
+}
+```
+

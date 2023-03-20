@@ -13,3 +13,15 @@ An [Object](object.md) used to define how a boss bar's overlay should be rendere
  | null | null | null | null | 
  | null | null | null | null | 
 
+## Example
+```json
+{
+  "sprite_location": "textures/gui/bars.png",
+  "bar_index": 1,
+  "should_render": true,
+  "condition": {
+    "type": "apoli:exposed_to_sun"
+  }
+}
+```
+
