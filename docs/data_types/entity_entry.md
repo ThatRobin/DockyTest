@@ -1,5 +1,6 @@
 # Entity Entry
 [Data Type](../data_types.md)
+
 _Either_: an [Object](object.md) specifying a registered entity or entity tag.
 
 _Or_: an [Array](array.md) of [Objects](object.md) specifying a registered item or item tag.

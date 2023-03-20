@@ -1,5 +1,6 @@
 # Stat Bar Hud Render
 [Data Type](../data_types.md)
+
 An [Object](object.md) used to define how a stat bar should be rendered.
 ## Fields
 

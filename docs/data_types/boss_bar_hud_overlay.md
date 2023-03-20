@@ -1,5 +1,6 @@
 # Boss Bar Hud Overlay
 [Data Type](../data_types.md)
+
 An [Object](object.md) used to define how a boss bar's overlay should be rendered.
 ## Fields
 

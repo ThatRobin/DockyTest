@@ -1,5 +1,6 @@
 # Boss Bar Hud Render
 [Data Type](../data_types.md)
+
 An [Object](object.md) used to define how a boss bar should be rendered.
 ## Fields
 
