@@ -7,7 +7,7 @@ This is the format of a JSON file describing a choice. They need to be placed in
  | `icon` | [Item Stack](data_types/item_stack.md) | _optional_ | The item stack which is displayed as the icon for the description button for the choice. | 
  | `name` | [String](data_types/string.md) | _optional_ | The display name of the choice. | 
  | `description` | [String](data_types/string.md) | _optional_ | The description of the choice. | 
- | `action_on_chosen` | [Entity Action Type](https://origins.readthedocs.io/en/latest/types/entity_action_types/) | _optional_ | The action that is run when they player selects this choice. | 
+ | `action_on_chosen` | [Entity Action Type](entity_action_types.md) | _optional_ | The action that is run when they player selects this choice. | 
 
 ### Examples
 ```json
