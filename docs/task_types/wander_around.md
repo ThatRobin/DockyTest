@@ -1,9 +1,20 @@
 # Wander Around
 [Task Types](../task_types_types.md)
 
+
+
 Type ID: `ra_additions:wander_around`
 ### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
 `priority` | [Int](../data_types/int.md) | 0 | null
 `speed` | [Double](../data_types/double.md) | 1.0 | null
+
+### Example
+```json
+{
+  "type": "ra_additions:wander_around",
+  "priority": 0,
+  "speed": 1
+}
+```
