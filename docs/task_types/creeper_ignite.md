@@ -6,4 +6,4 @@ Type ID: `ra_additions:creeper_ignite`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `priority` | [Int](../data_types/int.md) | 0 | null
-`bientity_condition` | [Bientity Condition](../bientity_condition_types.md.md) | _optional_ | null
+`bientity_condition` | [Bientity Condition](../bientity_condition_types.md) | _optional_ | null

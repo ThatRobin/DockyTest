@@ -8,10 +8,10 @@ Type ID: `ra_additions:action_on_projectile_land`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `projectile` | [Identifier](../data_types/identifier.md) | _optional_ | The identifier of the projectile entity.
-`entity_action` | [Entity Action](../entity_action_types.md.md) | _optional_ | The entity action to be executed on the projectile if specified.
-`self_action` | [Entity Action](../entity_action_types.md.md) | _optional_ | The entity action to be executed on the player if specified.
-`block_action` | [Block Action](../block_action_types.md.md) | _optional_ | The block action to be executed if specified.
-`block_condition` | [Block Condition](../block_condition_types.md.md) | _optional_ | If specified, only execute the specified actions if the block condition is fulfilled.
+`entity_action` | [Entity Action](../entity_action_types.md) | _optional_ | The entity action to be executed on the projectile if specified.
+`self_action` | [Entity Action](../entity_action_types.md) | _optional_ | The entity action to be executed on the player if specified.
+`block_action` | [Block Action](../block_action_types.md) | _optional_ | The block action to be executed if specified.
+`block_condition` | [Block Condition](../block_condition_types.md) | _optional_ | If specified, only execute the specified actions if the block condition is fulfilled.
 
 ### Example
 ```json
