@@ -8,8 +8,8 @@ Type ID: `ra_additions:border`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `border_texture` | [Identifier](../data_types/identifier.md) | minecraft:textures/misc/forcefield.png | The texture used on the border.
-`entity_condition` | [Entity Condition](../data_types/entity_condition.md) | _optional_ | If specified, if the entity colliding with the border fulfils the condition, it can walk through the border.
-`bientity_condition` | [Bientity Condition](../data_types/bientity_condition.md) | _optional_ | If specified, if the entity colliding with the border, and the entity with this power fulfil the condition, the colliding entity can walk through the border.
+`entity_condition` | [Entity Condition](../entity_condition_types.md.md) | _optional_ | If specified, if the entity colliding with the border fulfils the condition, it can walk through the border.
+`bientity_condition` | [Bientity Condition](../bientity_condition_types.md.md) | _optional_ | If specified, if the entity colliding with the border, and the entity with this power fulfil the condition, the colliding entity can walk through the border.
 `red` | [Float](../data_types/float.md) | 0.1254902 | The red value of the border.
 `green` | [Float](../data_types/float.md) | 0.627451 | The green value of the border.
 `blue` | [Float](../data_types/float.md) | 1.0 | The blue value of the border.

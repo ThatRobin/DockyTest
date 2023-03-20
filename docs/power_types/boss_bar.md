@@ -12,8 +12,8 @@ Field | Type | Default | Description
 `start_value` | [Int](../data_types/int.md) | _optional_ | The value of the boss bar when the entity first receives the power. If not set, this will be set to the value of the min integer field.
 `hud_render` | [Hud Render](../data_types/hud_render.md) | _optional_ | Determines how the boss bar is visualized on the HUD.
 `text` | [Text](../data_types/text.md) | _optional_ | The text displayed above the boss bar.
-`min_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | If specified, this action will be executed on the entity whenever the minimum value is reached.
-`max_action` | [Entity Action](../data_types/entity_action.md) | _optional_ | If specified, this action will be executed on the entity whenever the maximum value is reached.
+`min_action` | [Entity Action](../entity_action_types.md.md) | _optional_ | If specified, this action will be executed on the entity whenever the minimum value is reached.
+`max_action` | [Entity Action](../entity_action_types.md.md) | _optional_ | If specified, this action will be executed on the entity whenever the maximum value is reached.
 
 ### Example
 ```json

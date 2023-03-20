@@ -8,7 +8,7 @@ Type ID: `ra_additions:remove_goal`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `goal` | [String](../data_types/string.md) | _optional_ | The goal to remove from the mob.
-`goals` | [Array](../data_types/array.md) of [Strings](../data_types/string.md) | _optional_ | The goals to remove from the mob.
+`goals` | [Array](../data_types/array.md) of [Strings](../data_types/string.md | _optional_ | The goals to remove from the mob.
 
 ### Example
 ```json

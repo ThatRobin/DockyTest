@@ -9,7 +9,7 @@ Type ID: `ra_additions:equipped_trinket`
 ### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
-`item_condition` | [Item Condition](../data_types/item_condition.md) | _optional_ | The items that are searched for in the trinket slots.
+`item_condition` | [Item Condition](../item_condition_types.md.md) | _optional_ | The items that are searched for in the trinket slots.
 
 ### Example
 ```json
