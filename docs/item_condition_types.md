@@ -1,6 +1,6 @@
-# Item condition types
+# Item Condition Types
 
 
 ### List
 
- * [Evaluate condition](item_condition_types/evaluate_condition.md)
+ * [Evaluate Condition](item_condition_types/evaluate_condition.md)

@@ -1,5 +1,5 @@
-# Evaluate condition
-[Block condition types](../block_condition_types_types.md)
+# Evaluate Condition
+[Block Condition Types](../block_condition_types_types.md)
 
 Evaluates a block condition that is stored in a file.
 

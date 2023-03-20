@@ -1,6 +1,6 @@
-# Block action types
+# Block Action Types
 
 
 ### List
 
- * [Execute action](block_action_types/execute_action.md)
+ * [Execute Action](block_action_types/execute_action.md)

@@ -1,5 +1,5 @@
-# Evaluate condition
-[Entity condition types](../entity_condition_types_types.md)
+# Evaluate Condition
+[Entity Condition Types](../entity_condition_types_types.md)
 
 Evaluates an entity condition that is stored in a file.
 

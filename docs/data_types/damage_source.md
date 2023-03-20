@@ -1,5 +1,6 @@
 # Damage Source
 [Data Type](../data_types.md)
+
 An [Object](object.md) used to specify how to deal damage to an entity.
 ## Fields
 

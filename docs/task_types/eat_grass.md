@@ -1,5 +1,5 @@
-# Eat grass
-[Task types](../task_types_types.md)
+# Eat Grass
+[Task Types](../task_types_types.md)
 
 Type ID: `ra_additions:eat_grass`
 ### Fields

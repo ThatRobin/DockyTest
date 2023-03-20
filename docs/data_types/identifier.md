@@ -1,5 +1,6 @@
 # Identifier
 [Data Type](../data_types.md)
+
 A [String](string.md) which specifies an identifier used in Minecraft. They are used to refer to items, blocks, status effects, locations in data or resource packs, and a lot of other things.
 
 

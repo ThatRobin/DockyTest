@@ -1,5 +1,5 @@
-# Avoid sunlight
-[Task types](../task_types_types.md)
+# Avoid Sunlight
+[Task Types](../task_types_types.md)
 
 Type ID: `ra_additions:avoid_sunlight`
 ### Fields

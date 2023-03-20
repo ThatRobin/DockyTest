@@ -1,5 +1,6 @@
 # Modifier Operation
 [Data Type](../data_types.md)
+
 A [String](string.md) used to specify the operation used by [Attribute Modifiers](attribute_modifier.md).
 !!! note
     

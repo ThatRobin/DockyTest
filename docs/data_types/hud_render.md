@@ -1,5 +1,6 @@
 # Hud Render
 [Data Type](../data_types.md)
+
 An [Object](object.md) used to define how a resource or cooldown bar should be rendered.
 ## Fields
 

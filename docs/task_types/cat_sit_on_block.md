@@ -1,5 +1,5 @@
-# Cat sit on block
-[Task types](../task_types_types.md)
+# Cat Sit On Block
+[Task Types](../task_types_types.md)
 
 Type ID: `ra_additions:cat_sit_on_block`
 ### Fields

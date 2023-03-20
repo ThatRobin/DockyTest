@@ -1,5 +1,6 @@
 # Attributed Attribute Modifier
 [Data Type](../data_types.md)
+
 An [Object](object.md) used to specify how a specific attribute should be modified. Basically an [Attribute Modifier](attribute_modifier.md) with an additional `attribute` field.
 ## Fields
 

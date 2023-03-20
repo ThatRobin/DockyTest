@@ -1,5 +1,6 @@
 # Item Slot
 [Data Type](../data_types.md)
+
 A [string](string.md) that represents a slot from an entity or container's inventory.
 !!! note
     

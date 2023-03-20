@@ -1,5 +1,6 @@
 # Text Component
 [Data Type](../data_types.md)
+
 A [string](string.md) or [object](object.md) used for displaying text with fancy formatting.
 !!! note
     

@@ -1,5 +1,5 @@
-# Wander around
-[Task types](../task_types_types.md)
+# Wander Around
+[Task Types](../task_types_types.md)
 
 Type ID: `ra_additions:wander_around`
 ### Fields

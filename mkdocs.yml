@@ -6,6 +6,7 @@ nav:
   - Types:
     - Task Types: task_types.md
     - Power Types: power_types.md
+    - Data Types: data_types.md
   - Action Types:
     - Entity Action Types: entity_action_types.md
     - Bientity Action Types: bientity_action_types.md

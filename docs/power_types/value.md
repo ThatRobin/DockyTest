@@ -1,5 +1,5 @@
 # Value
-[Power types](../power_types_types.md)
+[Power Types](../power_types_types.md)
 
 Defines a value for the player. Essentially identical to a [Resource Bar](https://origins.readthedocs.io/en/latest/types/power_types/resource/) but displays as number in a string.
 

@@ -1,5 +1,5 @@
-# Look around
-[Task types](../task_types_types.md)
+# Look Around
+[Task Types](../task_types_types.md)
 
 Type ID: `ra_additions:look_around`
 ### Fields

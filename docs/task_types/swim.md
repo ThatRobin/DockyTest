@@ -1,5 +1,5 @@
 # Swim
-[Task types](../task_types_types.md)
+[Task Types](../task_types_types.md)
 
 Type ID: `ra_additions:swim`
 ### Fields
