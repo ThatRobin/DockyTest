@@ -11,24 +11,22 @@ Then, in this file, you enter your powers, and entities.
 ```json
 {
   "powers": [
-    "namespace:power_name",
-    "namespace:power_name_2"
+    "ra_additions:no_wool"
   ],
   "entity_entry": {
-    "entity": "minecraft:player"
+    "entity": "minecraft:sheep"
   }
 }
 ```
-This example would apply the powers `namespace:power_name` and `namespace:power_name_2` to all players.
+This example would apply the power `ra_additions:no_wool` to all sheep.
 ```json
 {
   "powers": [
-    "namespace:power_name",
-    "namespace:power_name_2"
+    "ra_additions:ignore_water"
   ],
   "entity_entry": {
     "tag": "minecraft:skeletons"
   }
 }
 ```
-This example would apply the powers `namespace:power_name` and `namespace:power_name_2` to all entities in the `minecraft:skeletons` Entity Type tag.
+This example would apply the power `ra_additions:ignore_water` to all entities in the `minecraft:skeletons` Entity Type tag.

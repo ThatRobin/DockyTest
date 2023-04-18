@@ -13,7 +13,7 @@ Field | Type | Default | Description
 ```json
 {
   "type": "ra_additions:execute_action",
-  "block_action": "test_pack:test_action"
+  "block_action": "ra_additions:add_block"
 }
 ```
-This example will run the `test_pack:test_action` block action.
+This example will run the `ra_additions:add_block` block action.

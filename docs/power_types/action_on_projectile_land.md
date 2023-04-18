@@ -8,8 +8,9 @@ Type ID: `ra_additions:action_on_projectile_land`
 Field | Type | Default | Description
 ------|------|---------|-------------
 `projectile` | [Identifier](../data_types/identifier.md) | _optional_ | The identifier of the projectile entity.
-`entity_action` | [Entity Action](../entity_action_types.md) | _optional_ | The entity action to be executed on the projectile if specified.
-`self_action` | [Entity Action](../entity_action_types.md) | _optional_ | The entity action to be executed on the player if specified.
+`should_damage` | [Boolean](../data_types/boolean.md) | false | Determines if the entity will be damaged by the projectile.
+`bientity_action` | [Bientity Action](../bientity_action_types.md) | _optional_ | The bientity action to be executed between the entity hit, and the entity with this power.
+`bientity_condition` | [Bientity Condition](../bientity_condition_types.md) | _optional_ | If specified, only execute the bientity action if this condition is fulfilled.
 `block_action` | [Block Action](../block_action_types.md) | _optional_ | The block action to be executed if specified.
 `block_condition` | [Block Condition](../block_condition_types.md) | _optional_ | If specified, only execute the specified actions if the block condition is fulfilled.
 
@@ -17,6 +18,14 @@ Field | Type | Default | Description
 ```json
 {
   "type": "ra_additions:action_on_projectile_land",
+  "should_damage": false,
+  "bientity_action": {
+    "type": "apoli:target_action",
+    "action": {
+      "type": "apoli:execute_command",
+      "command": "spreadplayers ~ ~ 1 3 false @s"
+    }
+  },
   "block_action": {
     "type": "apoli:set_block",
     "block": "minecraft:diamond_block"

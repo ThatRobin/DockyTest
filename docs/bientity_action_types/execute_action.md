@@ -13,7 +13,7 @@ Field | Type | Default | Description
 ```json
 {
   "type": "ra_additions:execute_action",
-  "bientity_action": "test_pack:attack_example"
+  "bientity_action": "ra_additions:attack_example"
 }
 ```
 This example will run the `test_pack:attack_example` bi-entity action.

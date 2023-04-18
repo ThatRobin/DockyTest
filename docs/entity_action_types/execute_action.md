@@ -13,7 +13,7 @@ Field | Type | Default | Description
 ```json
 {
   "type": "ra_additions:execute_action",
-  "entity_action": "ra_additions:open_choice_screen_example"
+  "entity_action": "ra_additions:action_example_1"
 }
 ```
-This example will run the `ra_additions:open_choice_screen_example` entity action.
+This example will run the `ra_additions:action_example_1` entity action.

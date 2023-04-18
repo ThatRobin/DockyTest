@@ -20,6 +20,9 @@ This example is an action that launches the player into the air.
   "cooldown": 20,
   "hud_render": {
     "should_render": false
+  },
+  "key": {
+    "key": "key.ra_additions.keybind_example"
   }
 }
 ```

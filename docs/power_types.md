@@ -5,6 +5,7 @@
 
  * [Action On Projectile Land](power_types/action_on_projectile_land.md)
  * [Add Goal](power_types/add_goal.md)
+ * [Animated Overlay](power_types/animated_overlay.md)
  * [Bind Item](power_types/bind_item.md)
  * [Border](power_types/border.md)
  * [Boss Bar](power_types/boss_bar.md)

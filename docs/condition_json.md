@@ -13,7 +13,7 @@ This example is a condition that checks if the player is sneaking.
 {
   "type": "apoli:active_self",
   "entity_action": {
-    "type": "origins:add_velocity",
+    "type": "apoli:add_velocity",
     "y": 2
   },
   "condition": {
@@ -23,6 +23,9 @@ This example is a condition that checks if the player is sneaking.
   "cooldown": 20,
   "hud_render": {
     "should_render": false
+  },
+  "key": {
+    "key": "key.ra_additions.keybind_example"
   }
 }
 ```
