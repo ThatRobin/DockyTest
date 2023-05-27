@@ -1,7 +1,9 @@
 # Toggle
 [Power Types](../power_types.md)
+
 A custom version of Apoli's [Toggle (Power Type)](https://origins.readthedocs.io/en/latest/types/power_types/toggle/)
-Type ID: `ra_additions:toggle
+
+Type ID: `ra_additions:toggle`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

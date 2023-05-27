@@ -1,7 +1,9 @@
 # Animal Mate
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:animal_mate
+
+
+Type ID: `ra_additions:animal_mate`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

@@ -1,7 +1,9 @@
 # Mimic Item
 [Entity Action Types](../entity_action_types.md)
+
 Executes a given Item Stack's use ability.
-Type ID: `ra_additions:mimic_item
+
+Type ID: `ra_additions:mimic_item`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

@@ -1,7 +1,9 @@
 # Add Goal
 [Power Types](../power_types.md)
+
 Adds a custom goal (from `data/{namespace}/goals/`) to the entity with this power.
-Type ID: `ra_additions:add_goal
+
+Type ID: `ra_additions:add_goal`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

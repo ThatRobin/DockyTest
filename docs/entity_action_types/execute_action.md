@@ -1,7 +1,9 @@
 # Execute Action
 [Entity Action Types](../entity_action_types.md)
+
 Executes an entity action that is stored in a file.
-Type ID: `ra_additions:execute_action
+
+Type ID: `ra_additions:execute_action`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

@@ -1,7 +1,9 @@
 # Flee Entity
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:flee_entity
+
+
+Type ID: `ra_additions:flee_entity`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

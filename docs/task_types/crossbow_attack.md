@@ -1,7 +1,9 @@
 # Crossbow Attack
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:crossbow_attack
+
+
+Type ID: `ra_additions:crossbow_attack`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

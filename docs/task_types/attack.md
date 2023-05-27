@@ -1,7 +1,9 @@
 # Attack
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:attack
+
+
+Type ID: `ra_additions:attack`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

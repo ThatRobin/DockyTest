@@ -1,7 +1,9 @@
 # Melee Attack
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:melee_attack
+
+
+Type ID: `ra_additions:melee_attack`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

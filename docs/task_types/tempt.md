@@ -1,7 +1,9 @@
 # Tempt
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:tempt
+
+
+Type ID: `ra_additions:tempt`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

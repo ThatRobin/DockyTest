@@ -1,7 +1,9 @@
 # Chase Boat
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:chase_boat
+
+
+Type ID: `ra_additions:chase_boat`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

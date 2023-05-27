@@ -1,7 +1,9 @@
 # Evaluate Condition
 [Bientity Condition Types](../bientity_condition_types.md)
+
 Evaluates a bi-entity condition that is stored in a file.
-Type ID: `ra_additions:evaluate_condition
+
+Type ID: `ra_additions:evaluate_condition`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

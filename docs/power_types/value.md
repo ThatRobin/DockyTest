@@ -1,7 +1,9 @@
 # Value
 [Power Types](../power_types.md)
+
 Defines a value for the player. Essentially identical to a [Resource Bar](https://origins.readthedocs.io/en/latest/types/power_types/resource/) but displays as number in a string.
-Type ID: `ra_additions:value
+
+Type ID: `ra_additions:value`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

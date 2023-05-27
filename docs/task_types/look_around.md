@@ -1,7 +1,9 @@
 # Look Around
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:look_around
+
+
+Type ID: `ra_additions:look_around`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

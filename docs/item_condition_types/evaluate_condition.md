@@ -1,7 +1,9 @@
 # Evaluate Condition
 [Item Condition Types](../item_condition_types.md)
+
 Evaluates an item condition that is stored in a file.
-Type ID: `ra_additions:evaluate_condition
+
+Type ID: `ra_additions:evaluate_condition`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

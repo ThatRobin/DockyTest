@@ -1,7 +1,9 @@
 # Look At Entity
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:look_at_entity
+
+
+Type ID: `ra_additions:look_at_entity`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

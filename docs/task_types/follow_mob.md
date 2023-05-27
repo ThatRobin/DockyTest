@@ -1,7 +1,9 @@
 # Follow Mob
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:follow_mob
+
+
+Type ID: `ra_additions:follow_mob`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

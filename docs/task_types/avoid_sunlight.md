@@ -1,7 +1,9 @@
 # Avoid Sunlight
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:avoid_sunlight
+
+
+Type ID: `ra_additions:avoid_sunlight`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

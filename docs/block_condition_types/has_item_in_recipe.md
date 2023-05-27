@@ -1,7 +1,9 @@
 # Has Item In Recipe
 [Block Condition Types](../block_condition_types.md)
+
 Checks if the recipe that outputs this block, has an item in it that matches this condition.
-Type ID: `ra_additions:has_item_in_recipe
+
+Type ID: `ra_additions:has_item_in_recipe`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

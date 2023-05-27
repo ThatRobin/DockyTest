@@ -1,7 +1,9 @@
 # Attack With Owner
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:attack_with_owner
+
+
+Type ID: `ra_additions:attack_with_owner`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

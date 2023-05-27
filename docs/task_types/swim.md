@@ -1,7 +1,9 @@
 # Swim
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:swim
+
+
+Type ID: `ra_additions:swim`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

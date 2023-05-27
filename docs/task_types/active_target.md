@@ -3,7 +3,7 @@
 
 1
 
-Type ID: `ra_additions:active_target
+Type ID: `ra_additions:active_target`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

@@ -1,7 +1,9 @@
 # Break Door
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:break_door
+
+
+Type ID: `ra_additions:break_door`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

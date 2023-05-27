@@ -1,7 +1,9 @@
 # Creeper Ignite
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:creeper_ignite
+
+
+Type ID: `ra_additions:creeper_ignite`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

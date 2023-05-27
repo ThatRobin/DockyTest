@@ -1,7 +1,9 @@
 # Animated Overlay
 [Power Types](../power_types.md)
+
 Lets you have a texture overlay onto the entity that you can have change over time.
-Type ID: `ra_additions:animated_overlay
+
+Type ID: `ra_additions:animated_overlay`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

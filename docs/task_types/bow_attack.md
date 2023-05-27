@@ -1,7 +1,9 @@
 # Bow Attack
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:bow_attack
+
+
+Type ID: `ra_additions:bow_attack`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

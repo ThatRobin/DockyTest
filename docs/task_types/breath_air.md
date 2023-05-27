@@ -1,7 +1,9 @@
 # Breath Air
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:breath_air
+
+
+Type ID: `ra_additions:breath_air`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

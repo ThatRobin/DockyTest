@@ -1,7 +1,9 @@
 # Door Interact
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:door_interact
+
+
+Type ID: `ra_additions:door_interact`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

@@ -1,7 +1,9 @@
 # Revenge
 [Task Types](../task_types.md)
 
-Type ID: `ra_additions:revenge
+
+
+Type ID: `ra_additions:revenge`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

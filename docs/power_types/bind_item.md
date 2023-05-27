@@ -1,7 +1,9 @@
 # Bind Item
 [Power Types](../power_types.md)
+
 Makes certain items unable to leave in the entity's inventory until death.
-Type ID: `ra_additions:bind_item
+
+Type ID: `ra_additions:bind_item`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

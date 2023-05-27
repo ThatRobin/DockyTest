@@ -2,7 +2,6 @@ site_name: Robin's Apoli Additions
 
 nav:
   - Home: index.md
-  - Universal Powers: universal_powers.md
   - Types:
     - Task Types: task_types.md
     - Power Types: power_types.md

@@ -1,7 +1,9 @@
 # Active Power Type
 [Entity Condition Types](../entity_condition_types.md)
+
 Checks whether the entity has a power that uses the specified Power Type, excluding those in the blacklist, and is "active", meaning that the entity has the power and the power has all its conditions fulfilled.
-Type ID: `ra_additions:active_power_type
+
+Type ID: `ra_additions:active_power_type`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|

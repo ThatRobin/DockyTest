@@ -1,7 +1,9 @@
 # Use Internal Block
 [Entity Action Types](../entity_action_types.md)
+
 Opens the specified choice screen for the player it is executed as.
-Type ID: `ra_additions:use_internal_block
+
+Type ID: `ra_additions:use_internal_block`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
