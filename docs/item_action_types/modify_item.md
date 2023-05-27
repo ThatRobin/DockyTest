@@ -1,13 +1,11 @@
 # Modify Item
-[Item Action Types](../item_action_types_types.md)
-
+[Item Action Types](../item_action_types.md)
 Applies an item modifier to the item stack with a player fulfilling the "this" criteria. The player is currently random.
-
-Type ID: `ra_additions:modify_item`
+Type ID: `ra_additions:modify_item
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`modifier` | [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of an item modifier.
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `modifier` | [Array](../data_types/array.md) of [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of an item modifier. | 
 
 ### Example
 ```json

@@ -2,7 +2,7 @@
 [Data Type](../data_types.md)
 
 An [Object](object.md) which defines a keybinding, used in active powers to define which key they react to.
-## Fields
+### Fields
 
  | Field | Type | Default | Description | 
 |---|---|---|---|

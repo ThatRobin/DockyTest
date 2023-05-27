@@ -5,7 +5,7 @@ A [string](string.md) that represents a slot from an entity or container's inven
 !!! note
     
   It's recommended to use the `container.<slot_number>` item slots for representing the slots of a power that uses the [Inventory (Power Type)](../power_types/inventory.md)
-## Fields
+### Fields
 
  | Name | Valid `<slot_number>` | Mapped index | 
 |---|---|---|---|

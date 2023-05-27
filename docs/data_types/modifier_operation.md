@@ -5,7 +5,7 @@ A [String](string.md) used to specify the operation used by [Attribute Modifiers
 !!! note
     
   The listed values are ordered based on the order of priority; with `add_base_early` being applied before the other modifiers and `set_total` being applied last.
-## Values
+### Values
 
  | Value | Description | 
 |---|---|---|---|

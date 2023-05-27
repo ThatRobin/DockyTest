@@ -5,7 +5,7 @@ A [string](string.md) used to specify the operation used by [Attributed Attribut
 !!! note
     
   The listed values are ordered based on the order of priority; with `addition` being applied before `multiply_base` and `multiply_total` being applied last.
-## Values
+### Values
 
  | Value | Description | 
 |---|---|---|---|

@@ -1,13 +1,11 @@
 # Execute Action
-[Entity Action Types](../entity_action_types_types.md)
-
+[Entity Action Types](../entity_action_types.md)
 Executes an entity action that is stored in a file.
-
-Type ID: `ra_additions:execute_action`
+Type ID: `ra_additions:execute_action
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`entity_action` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `entity_action` | [Array](../data_types/array.md) of [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed | 
 
 ### Example
 ```json

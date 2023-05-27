@@ -1,13 +1,11 @@
 # Execute Action
-[Block Action Types](../block_action_types_types.md)
-
+[Block Action Types](../block_action_types.md)
 Executes a block action that is stored in a file.
-
-Type ID: `ra_additions:execute_action`
+Type ID: `ra_additions:execute_action
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`block_action` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `block_action` | [Array](../data_types/array.md) of [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed | 
 
 ### Example
 ```json

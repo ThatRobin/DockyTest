@@ -1,17 +1,16 @@
 # Attack
-[Bientity Action Types](../bientity_action_types_types.md)
-
+[Bientity Action Types](../bientity_action_types.md)
 The actor entity will damage the target enemy as if they had just been hit with the weapon in the actors hand.
-
-Type ID: `ra_additions:attack`
+Type ID: `ra_additions:attack
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`source` | [Damage Source](../data_types/damage_source.md) | _optional_ | The damage source to be used. Controls e.g. the death message, invulnerabilities (e.g. towards fire), or whether armor is taken into account.
-`allow_enchants` | [Boolean](../data_types/boolean.md) | false | Should enchantments be taken into account in the attack.
-`allow_weapons` | [Boolean](../data_types/boolean.md) | false | Should weapons/tools be taken into account in the attack.
-`allow_effects` | [Boolean](../data_types/boolean.md) | false | Should effects be taken into account in the attack.
-`allow_attributes` | [Boolean](../data_types/boolean.md) | false | Should attributes be taken into account in the attack.
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `source` | [Array](../data_types/array.md) of [Damage Source Description](../data_types/damage_source_description.md) | _optional_ |  | 
+ | `damage_type` | [Array](../data_types/array.md) of [Damage Type](../data_types/damage_type.md) | _optional_ |  | 
+ | `allow_enchants` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should enchantments be taken into account in the attack. | 
+ | `allow_weapons` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should weapons/tools be taken into account in the attack. | 
+ | `allow_effects` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should effects be taken into account in the attack. | 
+ | `allow_attributes` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should attributes be taken into account in the attack. | 
 
 ### Example
 ```json

@@ -1,13 +1,11 @@
 # Execute Action
-[Item Action Types](../item_action_types_types.md)
-
+[Item Action Types](../item_action_types.md)
 Executes an item action that is stored in a file.
-
-Type ID: `ra_additions:execute_action`
+Type ID: `ra_additions:execute_action
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`item_action` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `item_action` | [Array](../data_types/array.md) of [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed | 
 
 ### Example
 ```json

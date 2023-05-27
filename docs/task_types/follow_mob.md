@@ -1,16 +1,14 @@
 # Follow Mob
-[Task Types](../task_types_types.md)
+[Task Types](../task_types.md)
 
-
-
-Type ID: `ra_additions:follow_mob`
+Type ID: `ra_additions:follow_mob
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`priority` | [Int](../data_types/int.md) | 0 | null
-`speed` | [Double](../data_types/double.md) | 1.2 | null
-`can_be_scared` | [Boolean](../data_types/boolean.md) | false | null
-`bientity_condition` | [Bientity Condition](../bientity_condition_types.md) | _optional_ | null
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `priority` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | null | 
+ | `speed` | [Array](../data_types/array.md) of [Double](../data_types/double.md) | _optional_ | null | 
+ | `can_be_scared` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | null | 
+ | `bientity_condition` | [Array](../data_types/array.md) of [Bientity Condition](../bientity_condition_types.md) | _optional_ | null | 
 
 ### Example
 ```json
@@ -28,3 +26,4 @@ Field | Type | Default | Description
   }
 }
 ```
+

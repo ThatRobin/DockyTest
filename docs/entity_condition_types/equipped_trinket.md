@@ -1,15 +1,13 @@
 # Equipped Trinket
-[Entity Condition Types](../entity_condition_types_types.md)
-
+[Entity Condition Types](../entity_condition_types.md)
 Checks all the players trinket slots with an Item Condition.
 
 This condition type requires the Trinkets mod to be installed in order to function.
-
-Type ID: `ra_additions:equipped_trinket`
+Type ID: `ra_additions:equipped_trinket
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`item_condition` | [Item Condition](../item_condition_types.md) | _optional_ | The items that are searched for in the trinket slots.
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `item_condition` | [Array](../data_types/array.md) of [Item Condition](../item_condition_types.md) | _optional_ | The items that are searched for in the trinket slots. | 
 
 ### Example
 ```json

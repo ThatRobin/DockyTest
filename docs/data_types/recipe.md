@@ -2,7 +2,7 @@
 [Data Type](../data_types.md)
 
 An [Object](object.md) specifying a shapeless or shaped crafting recipe. For some more information, view [the page on recipes on the MC wiki](https://minecraft.gamepedia.com/Recipe).
-## Fields (both types)
+### Fields (both types)
 
  | Field | Type | Default | Description | 
 |---|---|---|---|
@@ -10,13 +10,13 @@ An [Object](object.md) specifying a shapeless or shaped crafting recipe. For som
  | `id` | [Identifier](identifier.md) |  | An ID for this recipe. Has to be unique among all recipes, otherwise there will be a conflict. | 
  | `result` | [Object](object.md) with an `item` [ID](identifier.md) and `count` [Integer](integer.md) |  | The result of the crafting. **Note that vanilla does _not_ support NBT tags in the result.** | 
 
-## Fields (shapeless)
+### Fields (shapeless)
 
  | Field | Type | Default | Description | 
 |---|---|---|---|
  | `ingredients` | [Array](array.md) of [Ingredient](ingredient.md) |  | The items that need to be put in the crafting grid for the recipe. | 
 
-## Fields (shaped)
+### Fields (shaped)
 
  | Field | Type | Default | Description | 
 |---|---|---|---|

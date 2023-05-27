@@ -1,14 +1,12 @@
 # Swim
-[Task Types](../task_types_types.md)
+[Task Types](../task_types.md)
 
-
-
-Type ID: `ra_additions:swim`
+Type ID: `ra_additions:swim
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`priority` | [Int](../data_types/int.md) | 0 | null
-`fluid_type` |  | BOTH | null
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `priority` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | null | 
+ | `fluid_type` | null | _optional_ | null | 
 
 ### Example
 ```json
@@ -18,3 +16,4 @@ Field | Type | Default | Description
   "fluid_type": "water"
 }
 ```
+

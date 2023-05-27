@@ -13,11 +13,12 @@ This is the format of a JSON file describing a choice. They need to be placed in
 ```json
 {
   "powers": [
-    "example_pack:mana_bar",
-    "example_pack:mana_recharge",
-    "example_pack:mana_recharge_2"
+    "ra_additions:stat_bar_example",
+    "ra_additions:value_example"
   ],
-  "icon": "minecraft:diamond",
+  "icon": {
+    "item": "minecraft:diamond"
+  },
   "name": "Magic User",
   "description": "You can harness mana to use in a staff!"
 }

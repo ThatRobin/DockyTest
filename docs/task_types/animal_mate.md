@@ -1,14 +1,12 @@
 # Animal Mate
-[Task Types](../task_types_types.md)
+[Task Types](../task_types.md)
 
-
-
-Type ID: `ra_additions:animal_mate`
+Type ID: `ra_additions:animal_mate
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`priority` | [Int](../data_types/int.md) | 0 | null
-`chance` | [Double](../data_types/double.md) | 1.0 | null
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `priority` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | null | 
+ | `chance` | [Array](../data_types/array.md) of [Double](../data_types/double.md) | _optional_ | null | 
 
 ### Example
 ```json
@@ -18,3 +16,4 @@ Field | Type | Default | Description
   "chance": 1
 }
 ```
+

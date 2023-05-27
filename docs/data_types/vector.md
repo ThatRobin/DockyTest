@@ -2,7 +2,7 @@
 [Data Type](../data_types.md)
 
 An [Object](object.md) that specifies the X, Y and Z coordinates of a certain point in space.
-## Fields
+### Fields
 
  | Field | Type | Default | Description | 
 |---|---|---|---|

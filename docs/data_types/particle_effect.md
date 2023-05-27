@@ -5,7 +5,7 @@ A data type that's either a [string](string.md) which defines only the particle 
 !!! note
     
   Refer to the [Minecraft Fandom Wiki: Particles (Particle IDs)](https://minecraft.fandom.com/wiki/Particles#Particle_IDs) page for a list of **vanilla** particle type IDs that you can use.
-## Fields
+### Fields
 
  | Field | Type | Default | Description | 
 |---|---|---|---|

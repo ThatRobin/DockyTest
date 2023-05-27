@@ -1,12 +1,10 @@
 # Is Block
-[Item Condition Types](../item_condition_types_types.md)
-
+[Item Condition Types](../item_condition_types.md)
 Checks if the item extends BlockItem (Checks if the item is a block).
-
-Type ID: `ra_additions:is_block`
+Type ID: `ra_additions:is_block
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
+ | Field | Type | Default | Description | 
+|---|---|---|---|
 
 ### Example
 ```json

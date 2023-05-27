@@ -2,7 +2,7 @@
 [Data Type](../data_types.md)
 
 An [Object](object.md) which defines a new item stack.
-## Fields
+### Fields
 
  | Field | Type | Default | Description | 
 |---|---|---|---|

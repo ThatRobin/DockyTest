@@ -2,7 +2,7 @@
 [Data Type](../data_types.md)
 
 An [Object](object.md) used to define a status effect with duration, amplifier, etc.
-## Fields
+### Fields
 
  | Field | Type | Default | Description | 
 |---|---|---|---|

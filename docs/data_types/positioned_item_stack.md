@@ -2,7 +2,7 @@
 [Data Type](../data_types.md)
 
 An [Object](object.md) which defines a new item stack alongside a position in an inventory. Basically an [Item Stack](item_stack.md) with a `slot` field.
-## Fields
+### Fields
 
  | Field | Type | Default | Description | 
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # Has Item In Recipe
-[Block Condition Types](../block_condition_types.md)
-Checks if the recipe that outputs this block, has an item in it that matches this condition.
+[Item Condition Types](../item_condition_types.md)
+Checks if the recipe used to create this item, has an item in it that matches this condition.
 Type ID: `ra_additions:has_item_in_recipe
 ### Fields
  | Field | Type | Default | Description | 
@@ -14,8 +14,8 @@ Type ID: `ra_additions:has_item_in_recipe
   "type": "ra_additions:has_item_in_recipe",
   "recipe_type": "smelting",
   "item_condition": {
-    "type": "ra_additions:is_block"
+    "type": "origins:meat"
   }
 }
 ```
-This example will check if the smelting recipe to create this block, is also a block
+This example will check if the smelting recipe to create this item, has an item that is considered meat.

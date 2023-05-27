@@ -1,18 +1,16 @@
 # Value
-[Power Types](../power_types_types.md)
-
+[Power Types](../power_types.md)
 Defines a value for the player. Essentially identical to a [Resource Bar](https://origins.readthedocs.io/en/latest/types/power_types/resource/) but displays as number in a string.
-
-Type ID: `ra_additions:value`
+Type ID: `ra_additions:value
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`min` | [Int](../data_types/int.md) | -2147483648 | The minimum value of the power.
-`max` | [Int](../data_types/int.md) | 2147483647 | The maximum value of the power.
-`x` | [Int](../data_types/int.md) | 0 | The X co-ordinate that the string will appear at.
-`y` | [Int](../data_types/int.md) | 0 | The Y co-ordinate that the string will appear at.
-`value_key` | [String](../data_types/string.md) | _optional_ | The string that will contain the value
-`start_value` | [Int](../data_types/int.md) | _optional_ | The value of the power when the entity first receives it. If not set, this will be set to the value of the min integer field.
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `min` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The minimum value of the power. | 
+ | `max` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The maximum value of the power. | 
+ | `x` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The X co-ordinate that the string will appear at. | 
+ | `y` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The Y co-ordinate that the string will appear at. | 
+ | `value_key` | [Array](../data_types/array.md) of [String](../data_types/string.md) | _optional_ | The string that will contain the value | 
+ | `start_value` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The value of the power when the entity first receives it. If not set, this will be set to the value of the min integer field. | 
 
 ### Example
 ```json

@@ -1,13 +1,11 @@
 # Avoid Sunlight
-[Task Types](../task_types_types.md)
+[Task Types](../task_types.md)
 
-
-
-Type ID: `ra_additions:avoid_sunlight`
+Type ID: `ra_additions:avoid_sunlight
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`priority` | [Int](../data_types/int.md) | 0 | null
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `priority` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | null | 
 
 ### Example
 ```json
@@ -16,3 +14,4 @@ Field | Type | Default | Description
   "priority": 0
 }
 ```
+

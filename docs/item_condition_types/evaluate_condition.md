@@ -1,13 +1,11 @@
 # Evaluate Condition
-[Item Condition Types](../item_condition_types_types.md)
-
+[Item Condition Types](../item_condition_types.md)
 Evaluates an item condition that is stored in a file.
-
-Type ID: `ra_additions:evaluate_condition`
+Type ID: `ra_additions:evaluate_condition
 ### Fields
-Field | Type | Default | Description
-------|------|---------|-------------
-`item_condition` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or condition file to be evaluated
+ | Field | Type | Default | Description | 
+|---|---|---|---|
+ | `item_condition` | [Array](../data_types/array.md) of [String](../data_types/string.md) | _optional_ | The Identifier of the tag or condition file to be evaluated | 
 
 ### Example
 ```json
