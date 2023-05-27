@@ -1,6 +1,8 @@
 # Active Target
 [Task Types](../task_types.md)
+
 1
+
 Type ID: `ra_additions:active_target
 ### Fields
  | Field | Type | Default | Description | 
