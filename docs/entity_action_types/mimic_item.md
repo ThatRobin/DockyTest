@@ -7,8 +7,8 @@ Type ID: `ra_additions:mimic_item`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `item_stack` | [Array](../data_types/array.md) of [Item Stack](../data_types/item_stack.md) | _optional_ | The stack to be used for the action | 
- | `hand` | [Array](../data_types/array.md) of [Hand](../data_types/hand.md) | _optional_ | The hand for the action to use | 
+ | `item_stack` | [Item Stack](../data_types/item_stack.md) | _optional_ | The stack to be used for the action | 
+ | `hand` | [Hand](../data_types/hand.md) | _optional_ | The hand for the action to use | 
 
 ### Example
 ```json

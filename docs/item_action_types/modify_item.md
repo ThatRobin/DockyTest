@@ -7,7 +7,7 @@ Type ID: `ra_additions:modify_item`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `modifier` | [Array](../data_types/array.md) of [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of an item modifier. | 
+ | `modifier` | [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of an item modifier. | 
 
 ### Example
 ```json

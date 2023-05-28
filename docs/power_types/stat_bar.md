@@ -7,8 +7,8 @@ Type ID: `ra_additions:stat_bar`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `start_value` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The value of the resource when the player first gains this power. | 
- | `hud_render` | [Array](../data_types/array.md) of [Stat Bar Hud Render](../data_types/stat_bar_hud_render.md) | _optional_ | Specifies how and if the stat bar is displayed with a bar on the HUD. | 
+ | `start_value` | [Int](../data_types/int.md) | _optional_ | The value of the resource when the player first gains this power. | 
+ | `hud_render` | [Stat Bar Hud Render](../data_types/stat_bar_hud_render.md) | _optional_ | Specifies how and if the stat bar is displayed with a bar on the HUD. | 
 
 ### Example
 ```json

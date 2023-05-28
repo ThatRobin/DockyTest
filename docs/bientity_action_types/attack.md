@@ -7,12 +7,12 @@ Type ID: `ra_additions:attack`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `source` | [Array](../data_types/array.md) of [Damage Source Description](../data_types/damage_source_description.md) | _optional_ |  | 
- | `damage_type` | [Array](../data_types/array.md) of [Damage Type](../data_types/damage_type.md) | _optional_ |  | 
- | `allow_enchants` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should enchantments be taken into account in the attack. | 
- | `allow_weapons` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should weapons/tools be taken into account in the attack. | 
- | `allow_effects` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should effects be taken into account in the attack. | 
- | `allow_attributes` | [Array](../data_types/array.md) of [Boolean](../data_types/boolean.md) | _optional_ | Should attributes be taken into account in the attack. | 
+ | `source` | [Damage Source Description](../data_types/damage_source_description.md) | _optional_ |  | 
+ | `damage_type` | [Damage Type](../data_types/damage_type.md) | _optional_ |  | 
+ | `allow_enchants` | [Boolean](../data_types/boolean.md) | _optional_ | Should enchantments be taken into account in the attack. | 
+ | `allow_weapons` | [Boolean](../data_types/boolean.md) | _optional_ | Should weapons/tools be taken into account in the attack. | 
+ | `allow_effects` | [Boolean](../data_types/boolean.md) | _optional_ | Should effects be taken into account in the attack. | 
+ | `allow_attributes` | [Boolean](../data_types/boolean.md) | _optional_ | Should attributes be taken into account in the attack. | 
 
 ### Example
 ```json

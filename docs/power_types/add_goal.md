@@ -7,8 +7,8 @@ Type ID: `ra_additions:add_goal`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `goal` | [Array](../data_types/array.md) of [Identifier](../data_types/identifier.md) | _optional_ | The goal to add to the mob. | 
- | `goals` | [Identifiers](../data_types/identifiers.md) | _optional_ | The goals to add to the mob. | 
+ | `goal` | [Identifier](../data_types/identifier.md) | _optional_ | The goal to add to the mob. | 
+ | `goals` | [Array](../data_types/array.md) of [Identifier](../data_types/identifier.md) | _optional_ | The goals to add to the mob. | 
 
 ### Example
 ```json

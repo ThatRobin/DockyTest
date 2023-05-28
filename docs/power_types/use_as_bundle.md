@@ -7,8 +7,8 @@ Type ID: `ra_additions:use_as_bundle`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `max_amount` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | the amount of items you can store in the bundle. | 
- | `item_condition` | [Array](../data_types/array.md) of [Item Condition](../item_condition_types.md) | _optional_ | Items that fulfil this condition, will be bundle-like. | 
+ | `max_amount` | [Int](../data_types/int.md) | _optional_ | the amount of items you can store in the bundle. | 
+ | `item_condition` | [Item Condition](../item_condition_types.md) | _optional_ | Items that fulfil this condition, will be bundle-like. | 
 
 ### Example
 ```json

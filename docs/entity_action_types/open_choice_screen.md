@@ -7,7 +7,7 @@ Type ID: `ra_additions:open_choice_screen`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `choice_layer` | [Array](../data_types/array.md) of [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of the choice layer that the action will open. | 
+ | `choice_layer` | [Identifier](../data_types/identifier.md) | _optional_ | The Identifier of the choice layer that the action will open. | 
 
 ### Example
 ```json

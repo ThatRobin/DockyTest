@@ -7,9 +7,9 @@ Type ID: `ra_additions:animated_overlay`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `interval` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ |  | 
- | `texture_location` | [Identifiers](../data_types/identifiers.md) | _optional_ |  | 
- | `texture_locations` | [Identifiers](../data_types/identifiers.md) | _optional_ |  | 
+ | `interval` | [Int](../data_types/int.md) | _optional_ |  | 
+ | `texture_location` | [Array](../data_types/array.md) of [Identifier](../data_types/identifier.md) | _optional_ |  | 
+ | `texture_locations` | [Array](../data_types/array.md) of [Identifier](../data_types/identifier.md) | _optional_ |  | 
 
 ### Example
 ```json

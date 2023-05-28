@@ -7,11 +7,11 @@ Type ID: `ra_additions:flee_entity`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `priority` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | null | 
- | `distance` | [Array](../data_types/array.md) of [Float](../data_types/float.md) | _optional_ | null | 
- | `slow_speed` | [Array](../data_types/array.md) of [Double](../data_types/double.md) | _optional_ | null | 
- | `fast_speed` | [Array](../data_types/array.md) of [Double](../data_types/double.md) | _optional_ | null | 
- | `bientity_condition` | [Array](../data_types/array.md) of [Bientity Condition](../bientity_condition_types.md) | _optional_ | null | 
+ | `priority` | [Int](../data_types/int.md) | _optional_ | null | 
+ | `distance` | [Float](../data_types/float.md) | _optional_ | null | 
+ | `slow_speed` | [Double](../data_types/double.md) | _optional_ | null | 
+ | `fast_speed` | [Double](../data_types/double.md) | _optional_ | null | 
+ | `bientity_condition` | [Bientity Condition](../bientity_condition_types.md) | _optional_ | null | 
 
 ### Example
 ```json

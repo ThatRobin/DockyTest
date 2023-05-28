@@ -7,7 +7,7 @@ Type ID: `ra_additions:avoid_sunlight`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `priority` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | null | 
+ | `priority` | [Int](../data_types/int.md) | _optional_ | null | 
 
 ### Example
 ```json

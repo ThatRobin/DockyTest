@@ -7,7 +7,7 @@ Type ID: `ra_additions:execute_action`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `entity_action` | [Array](../data_types/array.md) of [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed | 
+ | `entity_action` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or action file to be executed | 
 
 ### Example
 ```json

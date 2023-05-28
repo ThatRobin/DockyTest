@@ -7,13 +7,13 @@ Type ID: `ra_additions:boss_bar`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `min` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The minimum value of the boss bar. | 
- | `max` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The maximum value of the boss bar. | 
- | `start_value` | [Array](../data_types/array.md) of [Int](../data_types/int.md) | _optional_ | The value of the boss bar when the entity first receives the power. If not set, this will be set to the value of the min integer field. | 
- | `hud_render` | [Array](../data_types/array.md) of [Boss Bar Hud Render](../data_types/boss_bar_hud_render.md) | _optional_ | Determines how the boss bar is visualized on the HUD. | 
- | `text` | [Array](../data_types/array.md) of [Text](../data_types/text.md) | _optional_ | The text displayed above the boss bar. | 
- | `min_action` | [Array](../data_types/array.md) of [Entity Action](../entity_action_types.md) | _optional_ | If specified, this action will be executed on the entity whenever the minimum value is reached. | 
- | `max_action` | [Array](../data_types/array.md) of [Entity Action](../entity_action_types.md) | _optional_ | If specified, this action will be executed on the entity whenever the maximum value is reached. | 
+ | `min` | [Int](../data_types/int.md) | _optional_ | The minimum value of the boss bar. | 
+ | `max` | [Int](../data_types/int.md) | _optional_ | The maximum value of the boss bar. | 
+ | `start_value` | [Int](../data_types/int.md) | _optional_ | The value of the boss bar when the entity first receives the power. If not set, this will be set to the value of the min integer field. | 
+ | `hud_render` | [Boss Bar Hud Render](../data_types/boss_bar_hud_render.md) | _optional_ | Determines how the boss bar is visualized on the HUD. | 
+ | `text` | [Text](../data_types/text.md) | _optional_ | The text displayed above the boss bar. | 
+ | `min_action` | [Entity Action](../entity_action_types.md) | _optional_ | If specified, this action will be executed on the entity whenever the minimum value is reached. | 
+ | `max_action` | [Entity Action](../entity_action_types.md) | _optional_ | If specified, this action will be executed on the entity whenever the maximum value is reached. | 
 
 ### Example
 ```json

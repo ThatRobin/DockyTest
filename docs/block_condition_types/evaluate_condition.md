@@ -7,7 +7,7 @@ Type ID: `ra_additions:evaluate_condition`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `block_condition` | [Array](../data_types/array.md) of [String](../data_types/string.md) | _optional_ | The Identifier of the tag or condition file to be evaluated | 
+ | `block_condition` | [String](../data_types/string.md) | _optional_ | The Identifier of the tag or condition file to be evaluated | 
 
 ### Example
 ```json
