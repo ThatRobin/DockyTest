@@ -11,6 +11,9 @@ Type ID: `ra_additions:use_internal_block`
 
 ### Example
 ```json
-
+{
+  "type": "ra_additions:use_internal_block",
+  "block_power": "ra_additions:furnace_example"
+}
 ```
 

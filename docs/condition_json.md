@@ -1,7 +1,7 @@
 # Condition JSON Format
-This is the format of a JSON file describing an action. These can be used in place of creating an action inside of an origin. 
+This is the format of a JSON file describing a condition. These can be used in place of creating an condition inside of a power. 
 
-Action JSON files need to be placed inside the `data/<namespace>/{Action Type}` folder of your datapack. Where the `{Action Type}` is either `entity`, `bientity`, `block` or `item`.
+Condition JSON files need to be placed inside the `data/<namespace>/{Condition Type}` folder of your datapack. Where the `{Condition Type}` is either `entity`, `bientity`, `block` or `item`.
 ### Examples
 ```json
 {

@@ -12,6 +12,15 @@ Type ID: `ra_additions:custom_model_render`
 
 ### Example
 ```json
-
+{
+  "type": "ra_additions:custom_model_render",
+  "model_path": "ra_additions:test_model",
+  "slots": [
+    "head",
+    "chest",
+    "legs",
+    "feet"
+  ]
+}
 ```
 

@@ -10,6 +10,8 @@ Type ID: `ra_additions:furnace`
 
 ### Example
 ```json
-
+{
+  "type": "ra_additions:furnace"
+}
 ```
 
