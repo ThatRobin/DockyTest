@@ -14,6 +14,11 @@ An [Object](object.md) used to define how a boss bar should be rendered.
 
 ### Example
 ```json
-
+{
+  "should_render": true,
+  "bar_index": 0,
+  "side": "right",
+  "sprite_location": "example_pack:textures/gui/icons.png"
+}
 ```
 
