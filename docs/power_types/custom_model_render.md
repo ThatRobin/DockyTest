@@ -7,8 +7,8 @@ Type ID: `ra_additions:custom_model_render`
 ### Fields
  | Field | Type | Default | Description | 
 |---|---|---|---|
- | `model_path` | [Identifier](../data_types/identifier.md) | _optional_ | null | 
- | `slots` | [Array](../data_types/array.md) of [Display Model Type](../data_types/display_model_type.md) | _optional_ | null | 
+ | `model_location` | [Identifier](../data_types/identifier.md) | _optional_ | The model location to use for the power. | 
+ | `slots` | [Array](../data_types/array.md) of [Display Model Type](../data_types/display_model_type.md) | _optional_ | An array of slots used to determine which areas the model should render on. | 
 
 ### Example
 ```json

@@ -11,7 +11,7 @@ Type ID: `ra_additions:brewing_stand`
 ### Example
 ```json
 {
-  "type": "ra_additions:furnace"
+  "type": "ra_additions:brewing_stand"
 }
 ```
 

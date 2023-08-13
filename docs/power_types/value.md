@@ -9,6 +9,7 @@ Type ID: `ra_additions:value`
 |---|---|---|---|
  | `min` | [Int](../data_types/int.md) | _optional_ | The minimum value of the power. | 
  | `max` | [Int](../data_types/int.md) | _optional_ | The maximum value of the power. | 
+ | `anchor` | null | _optional_ | The part of the screen that can be used as the center point | 
  | `x` | [Int](../data_types/int.md) | _optional_ | The X co-ordinate that the string will appear at. | 
  | `y` | [Int](../data_types/int.md) | _optional_ | The Y co-ordinate that the string will appear at. | 
  | `value_key` | [String](../data_types/string.md) | _optional_ | The string that will contain the value | 
@@ -20,7 +21,9 @@ Type ID: `ra_additions:value`
   "type": "ra_additions:value",
   "x": 70,
   "y": 70,
+  "min": 5,
+  "max": 10,
   "value_key": "You have %s value"
 }
 ```
-This example is a value, which creates a string of text that says `you have X value` where X is the internal value of the power.
+This example is a value, which creates a string of text that says `you have %s value` where %s is the internal value of the power.
